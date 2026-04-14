@@ -1,0 +1,501 @@
+complaint_id,customer_id,order_id,complaint_text,complaint_date,fraud_score,fraud_classification,refund_applicable,fraud_reason,prior_complaints,total_orders,complaint_ratio
+CMP-001,C-001,O-001,My Sony headphones stopped working completely within 2 days need refund,2026-04-01,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-195,C-001,O-195,earbuds not working properly,2026-04-20,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-196,C-001,O-196,earbuds ok but meh,2026-04-20,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-219,C-001,O-219,feels cheap compared to pictures,2026-04-22,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-319,C-001,O-319,this isnt what i saw online,2026-05-02,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-002,C-002,O-002,Laptop screen is completely black not turning on at all,2026-04-01,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-111,C-002,O-111,phone dead after update,2026-04-12,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-112,C-002,O-112,i dont like this color anymore,2026-04-12,18,Fraud,No,Change of mind,2,8,0.375
+CMP-210,C-002,O-210,this is not exactly what i thought it would be,2026-04-21,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-310,C-002,O-310,not satisfied overall,2026-05-01,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-409,C-002,O-448,this is not same as shown online,2026-05-11,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-461,C-002,O-782,device not connecting wifi properly,2026-05-17,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-003,C-003,O-003,Battery exploded while charging this is dangerous 😡,2026-04-01,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-145,C-003,O-145,mouse not detected at all,2026-04-15,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-146,C-003,O-146,mouse slightly slow nothing major,2026-04-15,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-201,C-003,O-201,phone randomly shuts down even when battery is full,2026-04-21,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-301,C-003,O-301,device restarting frequently,2026-05-01,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-435,C-003,O-610,sound distortion while playing music,2026-05-14,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-487,C-003,O-682,box had marks inside,2026-05-19,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-004,C-004,O-004,Phone is dead on arrival not powering on,2026-04-01,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-292,C-004,O-292,screen brightness fluctuating randomly,2026-04-30,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-392,C-004,O-392,screen brightness issue,2026-05-10,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-401,C-004,O-401,phone not turning on after charging overnight,2026-05-11,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-444,C-004,O-667,mouse pointer lagging randomly,2026-05-15,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-005,C-005,O-005,Earbuds only work on one side defective unit,2026-04-01,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-101,C-005,O-101,phone stopped working after 3 days need help,2026-04-11,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-102,C-005,O-102,screen flickering sometimes but usable,2026-04-11,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-283,C-005,O-283,screen has faint horizontal lines,2026-04-29,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-383,C-005,O-383,screen showing lines,2026-05-09,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-453,C-005,O-726,screen showing horizontal lines,2026-05-16,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-006,C-006,O-006,Tablet display cracked inside the box itself,2026-04-01,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-179,C-006,O-179,network not working,2026-04-18,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-180,C-006,O-180,device ok but refund needed,2026-04-18,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-274,C-006,O-274,mouse not working on certain surfaces,2026-04-28,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-374,C-006,O-374,mouse not responding properly,2026-05-08,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-496,C-006,O-798,ok,2026-05-20,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-007,C-007,O-007,Monitor showing only blank screen,2026-04-01,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-265,C-007,O-265,audio cuts during calls randomly,2026-04-27,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-365,C-007,O-365,audio cuts randomly,2026-05-07,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-418,C-007,O-502,expected better quality honestly,2026-05-12,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-470,C-007,O-458,works fine but refund pls,2026-05-17,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-008,C-008,O-008,Keyboard keys not responding at all,2026-04-01,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-129,C-008,O-129,tablet screen frozen completely,2026-04-13,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-130,C-008,O-130,wrong product again 😡 unacceptable,2026-04-13,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-256,C-008,O-256,not good,2026-04-26,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-356,C-008,O-356,why is this not same black 😡,2026-05-06,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-009,C-009,O-009,Mouse completely stopped working after 1 day,2026-04-01,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-247,C-009,O-247,box looked new but device has scratches,2026-04-25,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-347,C-009,O-347,it works but i dont like it,2026-05-05,18,Fraud,No,Change of mind,2,8,0.375
+CMP-010,C-010,O-010,Charger burnt smell and not working,2026-04-01,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-163,C-010,O-163,device overheating while charging,2026-04-17,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-164,C-010,O-164,wrong item delivered again 😡,2026-04-17,90,Fraud,No,Unverified mismatch,2,8,0.375
+CMP-238,C-010,O-238,doesnt feel right idk,2026-04-24,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-338,C-010,O-338,used item returning now,2026-05-04,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-011,C-011,O-011,Laptop keeps restarting randomly,2026-04-02,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-197,C-011,O-197,monitor blank screen,2026-04-20,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-198,C-011,O-198,monitor slightly dim,2026-04-20,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-229,C-011,O-229,this doesnt match description properly,2026-04-23,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-329,C-011,O-329,meh its okay,2026-05-03,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-427,C-011,O-559,box had fingerprints on device,2026-05-13,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-479,C-011,O-579,meh refund pls,2026-05-18,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-012,C-012,O-012,Phone overheating while charging,2026-04-02,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-103,C-012,O-103,laptop not booting at all,2026-04-11,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-104,C-012,O-104,i ordered blue but got black again 😡,2026-04-11,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-220,C-012,O-220,not worth the price imo,2026-04-22,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-320,C-012,O-320,device is fine but want refund anyway,2026-05-02,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-013,C-013,O-013,Earbuds disconnect frequently,2026-04-02,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-211,C-013,O-211,laptop fan very loud suddenly,2026-04-22,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-311,C-013,O-311,device not connecting to wifi sometimes,2026-05-02,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-014,C-014,O-014,Tablet hangs sometimes while using,2026-04-02,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-113,C-014,O-113,keyboard keys falling off,2026-04-12,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-114,C-014,O-114,box had older keyboard model,2026-04-12,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-202,C-014,O-202,i think battery is bad drains too fast,2026-04-21,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-302,C-014,O-302,screen ghost touch happening randomly,2026-05-01,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-436,C-014,O-615,ok,2026-05-14,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-488,C-014,O-695,used already returning now,2026-05-19,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-015,C-015,O-015,Monitor flickers occasionally,2026-04-02,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-147,C-015,O-147,tablet not charging properly,2026-04-15,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-148,C-015,O-148,tablet ok but dont like it,2026-04-15,18,Fraud,No,Change of mind,2,8,0.375
+CMP-293,C-015,O-293,keyboard lagging when typing fast,2026-04-30,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-393,C-015,O-393,keyboard lagging,2026-05-10,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-410,C-015,O-453,product works but i dont want it anymore,2026-05-11,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-462,C-015,O-789,screen flickering issue persists,2026-05-17,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-016,C-016,O-016,Keyboard has input lag,2026-04-02,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-284,C-016,O-284,device heating near battery area,2026-04-29,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-384,C-016,O-384,device heating issue,2026-05-09,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-445,C-016,O-673,charger heating too much,2026-05-15,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-017,C-017,O-017,Mouse cursor jumping randomly,2026-04-02,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-275,C-017,O-275,charger overheating after few minutes,2026-04-28,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-375,C-017,O-375,charger overheating issue,2026-05-08,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-402,C-017,O-407,screen flickering randomly while using apps,2026-05-11,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-454,C-017,O-733,device heating near battery,2026-05-16,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-018,C-018,O-018,Charger gets too hot sometimes,2026-04-02,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-181,C-018,O-181,phone not charging at all,2026-04-19,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-182,C-018,O-182,box had broken phone inside,2026-04-19,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-266,C-018,O-266,not really what i thought tbh,2026-04-27,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-366,C-018,O-366,not what i expected,2026-05-07,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-497,C-018,O-405,idk feels weird,2026-05-20,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-019,C-019,O-019,Smartwatch battery drains fast,2026-04-02,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-131,C-019,O-131,device restarting automatically again and again,2026-04-14,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-132,C-019,O-132,i expected better quality,2026-04-14,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-257,C-019,O-257,feels off somehow cant explain,2026-04-26,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-357,C-019,O-357,box had marks on item,2026-05-06,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-419,C-019,O-509,feels cheap compared to price,2026-05-12,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-471,C-019,O-471,device rebooting randomly,2026-05-18,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-020,C-020,O-020,Phone speaker volume is very low,2026-04-02,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-105,C-020,O-105,mouse stopped working suddenly,2026-04-11,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-106,C-020,O-106,used it for 2 days returning now,2026-04-11,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-248,C-020,O-248,used for few hrs now returning,2026-04-25,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-348,C-020,O-348,looks different irl,2026-05-05,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-021,C-021,O-021,Laptop is a bit slow nothing major though,2026-04-03,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-199,C-021,O-199,device not connecting wifi,2026-04-20,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-200,C-021,O-200,not satisfied with product,2026-04-20,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-239,C-021,O-239,i guess its fine but still refund pls,2026-04-24,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-339,C-021,O-339,this product not same as shown,2026-05-04,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-022,C-022,O-022,Phone camera quality is average expected better,2026-04-03,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-165,C-022,O-165,mouse buttons not working,2026-04-17,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-166,C-022,O-166,i dont like this anymore,2026-04-17,18,Fraud,No,Change of mind,2,8,0.375
+CMP-230,C-022,O-230,product is fine but i want different one,2026-04-23,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-330,C-022,O-330,not impressed honestly,2026-05-03,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-428,C-022,O-564,used it for few hours now returning,2026-05-13,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-480,C-022,O-593,idk feels off,2026-05-18,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-023,C-023,O-023,Mouse feels slightly laggy,2026-04-03,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-221,C-023,O-221,device completely dead after charging overnight,2026-04-23,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-321,C-023,O-321,device stuck at logo screen,2026-05-03,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-024,C-024,O-024,Keyboard keys are hard to press but usable,2026-04-03,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-212,C-024,O-212,keyboard typing double letters sometimes,2026-04-22,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-312,C-024,O-312,screen flickering under low brightness,2026-05-02,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-025,C-025,O-025,Monitor brightness is low,2026-04-03,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-203,C-025,O-203,screen has small flicker sometimes not sure why,2026-04-21,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-303,C-025,O-303,battery percentage drops suddenly,2026-05-01,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-437,C-025,O-621,idk feels weird to use,2026-05-14,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-489,C-025,O-708,not same as description,2026-05-19,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-026,C-026,O-026,Tablet touch is slightly delayed,2026-04-03,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-294,C-026,O-294,mouse double clicking issue,2026-04-30,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-394,C-026,O-394,mouse double click issue,2026-05-10,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-027,C-027,O-027,Earbuds sound is okay but not great,2026-04-03,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-115,C-027,O-115,earbuds not connecting properly,2026-04-12,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-116,C-027,O-116,earbuds sound not great honestly,2026-04-12,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-149,C-027,O-149,charger loose connection issue,2026-04-15,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-150,C-027,O-150,chargr burn smel 😡,2026-04-15,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-285,C-027,O-285,audio very low even at max volume,2026-04-29,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-385,C-027,O-385,audio very low,2026-05-09,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-411,C-027,O-460,tablet not charging at all,2026-05-12,31,Fraud,No,Frequent Abuser,7,8,1.0
+CMP-463,C-027,O-795,keyboard not working correctly,2026-05-17,31,Fraud,No,Frequent Abuser,8,8,1.125
+CMP-028,C-028,O-028,Charger is slow but working,2026-04-03,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-276,C-028,O-276,why is this shade different than black?? 😡,2026-04-28,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-376,C-028,O-376,why color looks diff?? 😡,2026-05-08,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-446,C-028,O-680,why color looks off?? 😡,2026-05-15,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-029,C-029,O-029,Smartwatch UI is laggy,2026-04-03,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-183,C-029,O-183,laptop not turning on,2026-04-19,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-184,C-029,O-184,wrong laptop delivered,2026-04-19,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-267,C-029,O-267,works fine but dont want anymore,2026-04-27,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-367,C-029,O-367,dont like it anymore,2026-05-07,43,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-403,C-029,O-412,device overheating even when idle,2026-05-11,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-455,C-029,O-740,audio very low even at max,2026-05-16,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-498,C-029,O-420,expected better,2026-05-20,31,Fraud,No,Frequent Abuser,7,8,1.0
+CMP-030,C-030,O-030,Phone heats slightly during gaming,2026-04-03,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-258,C-030,O-258,maybe its fine but refund pls,2026-04-26,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-358,C-030,O-358,used already returning,2026-05-06,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-031,C-031,O-031,I prefer red color instead of blue,2026-04-04,18,Fraud,No,Change of mind,0,8,0.125
+CMP-133,C-031,O-133,keyboard not typing properly,2026-04-14,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-134,C-031,O-134,box had damaged keyboard,2026-04-14,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-249,C-031,O-249,not same as picture online,2026-04-25,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-349,C-031,O-349,not satisfied,2026-05-05,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-420,C-031,O-514,not impressed at all,2026-05-12,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-472,C-031,O-486,screen not responding properly,2026-05-18,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-032,C-032,O-032,I don’t like this product anymore,2026-04-04,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-240,C-032,O-240,hmm not what i imagined,2026-04-24,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-340,C-032,O-340,works fine but refund pls,2026-05-04,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-033,C-033,O-033,Changed my mind after buying,2026-04-04,18,Fraud,No,Change of mind,0,8,0.125
+CMP-107,C-033,O-107,tablet not charging at all,2026-04-11,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-108,C-033,O-108,tablet touch little slow but ok,2026-04-11,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-231,C-033,O-231,screen lines appear sometimes then disappear,2026-04-24,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-331,C-033,O-331,device not recognizing storage,2026-05-04,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-034,C-034,O-034,This doesn’t match my style,2026-04-04,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-167,C-034,O-167,tablet screen cracked,2026-04-17,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-168,C-034,O-168,tablet touch bit slow,2026-04-17,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-222,C-034,O-222,phone overheating even when idle,2026-04-23,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-322,C-034,O-322,bluetooth pairing inconsistent,2026-05-03,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-429,C-034,O-570,this doesnt match description exactly,2026-05-13,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-481,C-034,O-606,device not connecting network,2026-05-19,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-035,C-035,O-035,I thought it would look better,2026-04-04,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-213,C-035,O-213,mouse scroll not smooth at all,2026-04-22,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-313,C-035,O-313,keyboard typing delayed slightly,2026-05-02,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-036,C-036,O-036,Bad product,2026-04-04,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-204,C-036,O-204,device worked fine for few days then stopped 😕,2026-04-21,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-304,C-036,O-304,device gets hot near camera,2026-05-01,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-438,C-036,O-628,expected something better,2026-05-14,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-490,C-036,O-721,device fine but refund pls,2026-05-19,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-037,C-037,O-037,Not good 😒,2026-04-04,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-295,C-037,O-295,device heats up during calls,2026-04-30,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-395,C-037,O-395,device heating during calls,2026-05-10,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-038,C-038,O-038,Very disappointed,2026-04-04,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-286,C-038,O-286,ok product but meh,2026-04-29,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-386,C-038,O-386,ok,2026-05-09,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-412,C-038,O-467,device stuck on startup screen,2026-05-12,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-464,C-038,O-799,mouse stops responding randomly,2026-05-17,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-039,C-039,O-039,Worst,2026-04-04,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-117,C-039,O-117,monitor showing lines on screen,2026-04-12,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-118,C-039,O-118,monitor brightness low nothing serious,2026-04-12,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-151,C-039,O-151,screen showing green lines,2026-04-16,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-152,C-039,O-152,wrong model sent completely diff,2026-04-16,100,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-277,C-039,O-277,box looked unopened but inside scratched item,2026-04-28,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-377,C-039,O-377,box had marks inside,2026-05-08,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-447,C-039,O-686,box had marks inside,2026-05-15,31,Fraud,No,Frequent Abuser,7,8,1.0
+CMP-040,C-040,O-040,Not working,2026-04-04,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-268,C-040,O-268,looks kinda different from images,2026-04-27,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-368,C-040,O-368,looks diff from pics,2026-05-07,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-499,C-040,O-436,not bad but refund pls,2026-05-20,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-041,C-041,O-041,Great product died in 2 hours 😡,2026-04-05,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-185,C-041,O-185,mouse not working,2026-04-19,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-186,C-041,O-186,mouse little laggy,2026-04-19,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-259,C-041,O-259,i expected premium quality tbh,2026-04-26,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-359,C-041,O-359,this doesnt match image online,2026-05-06,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-042,C-042,O-042,Amazing laptop doesn’t turn on,2026-04-05,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-250,C-042,O-250,works but i dont need it anymore,2026-04-25,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-350,C-042,O-350,refund pls no reason,2026-05-05,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-404,C-042,O-418,keyboard keys not responding sometimes,2026-05-11,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-456,C-042,O-746,not good,2026-05-16,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-043,C-043,O-043,Fantastic phone already broken,2026-04-05,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-135,C-043,O-135,earbuds one side no sound,2026-04-14,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-136,C-043,O-136,earbuds ok but not loud enough,2026-04-14,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-241,C-043,O-241,device wont connect to wifi at all,2026-04-25,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-341,C-043,O-341,device randomly shutting down,2026-05-05,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-044,C-044,O-044,Lovely headphones not working at all,2026-04-05,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-232,C-044,O-232,battery drains overnight even idle,2026-04-24,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-332,C-044,O-332,screen showing faint shadows,2026-05-04,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-421,C-044,O-520,device not connecting to wifi,2026-05-13,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-473,C-044,O-499,battery drains very quickly,2026-05-18,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-045,C-045,O-045,Wow stopped working instantly,2026-04-05,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-109,C-045,O-109,charger burnt smell coming,2026-04-11,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-110,C-045,O-110,wrong item delivered totally different 😠,2026-04-11,90,Fraud,No,Unverified mismatch,2,8,0.375
+CMP-223,C-045,O-223,audio not working during calls,2026-04-23,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-323,C-045,O-323,camera blurry in normal light,2026-05-03,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-046,C-046,O-046,My red headphones are broken,2026-04-05,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-169,C-046,O-169,charger stopped working,2026-04-17,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-170,C-046,O-170,refnd pls asap!!! 😡,2026-04-17,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-214,C-046,O-214,tablet freezes randomly during use,2026-04-22,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-314,C-046,O-314,mouse pointer lagging randomly,2026-05-02,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-430,C-046,O-578,works fine but refund anyway,2026-05-13,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-482,C-046,O-619,screen flicker issue,2026-05-19,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-047,C-047,O-047,I ordered a laptop but got a phone,2026-04-05,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-205,C-047,O-205,charger cable loose connection keeps disconnecting,2026-04-21,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-305,C-047,O-305,sound cuts off during playback,2026-05-01,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-439,C-047,O-634,meh not great honestly,2026-05-14,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-491,C-047,O-734,device stuck on boot,2026-05-20,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-048,C-048,O-048,My smartwatch is not working,2026-04-05,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-296,C-048,O-296,ordered black but looks greyish??,2026-04-30,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-396,C-048,O-396,ordered black looks grey?? 😡,2026-05-10,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-049,C-049,O-049,I got wrong earbuds model,2026-04-05,90,Fraud,No,Unverified mismatch,0,8,0.125
+CMP-287,C-049,O-287,i guess its fine idk,2026-04-29,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-387,C-049,O-387,idk feels weird,2026-05-09,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-413,C-049,O-472,audio not working during calls,2026-05-12,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-465,C-049,O-800,charger overheating continuously,2026-05-17,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-050,C-050,O-050,I ordered headphones but got charger,2026-04-05,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-119,C-050,O-119,device not connecting wifi,2026-04-12,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-120,C-050,O-120,not satisfied want refund,2026-04-12,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-278,C-050,O-278,used it once returning now,2026-04-28,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-378,C-050,O-378,used already now returning,2026-05-08,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-448,C-050,O-692,used already returning now,2026-05-15,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-051,C-051,O-051,Need refund ASAP device not working,2026-04-06,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-153,C-051,O-153,device not connecting bluetooth,2026-04-16,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-154,C-051,O-154,not satisfied 😒,2026-04-16,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-269,C-051,O-269,meh its okay but refund pls,2026-04-27,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-369,C-051,O-369,meh refund pls,2026-05-07,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-500,C-051,O-450,feels cheap,2026-05-20,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-052,C-052,O-052,URGENT laptop not turning on 😡,2026-04-06,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-260,C-052,O-260,looks different than website,2026-04-26,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-360,C-052,O-360,works but refund pls,2026-05-06,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-053,C-053,O-053,Immediate refund required battery issue,2026-04-06,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-187,C-053,O-187,tablet dead suddenly,2026-04-19,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-188,C-053,O-188,tablet not stylish enough,2026-04-19,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-251,C-053,O-251,device stuck on boot screen,2026-04-26,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-351,C-053,O-351,device stuck on startup,2026-05-06,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-054,C-054,O-054,Please respond immediately phone dead,2026-04-06,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-242,C-054,O-242,bluetooth pairing failing repeatedly,2026-04-25,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-342,C-054,O-342,screen touch lagging slightly,2026-05-05,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-055,C-055,O-055,Refund needed now charger burnt,2026-04-06,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-137,C-055,O-137,monitor not turning on,2026-04-14,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-138,C-055,O-138,monitor ok but not great,2026-04-14,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-233,C-055,O-233,device gets warm quickly while using apps,2026-04-24,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-333,C-055,O-333,keyboard unresponsive sometimes,2026-05-04,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-422,C-055,O-528,bluetooth disconnects randomly,2026-05-13,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-474,C-055,O-513,device heating issue noticed,2026-05-18,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-056,C-056,O-056,battrey brokn need refnd asap,2026-04-06,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-224,C-056,O-224,touchscreen not responding in some areas,2026-04-23,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-324,C-056,O-324,screen brightness unstable,2026-05-03,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-405,C-056,O-423,mouse stopped working suddenly,2026-05-11,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-457,C-056,O-752,feels off idk why,2026-05-16,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-057,C-057,O-057,phon not wrking properly 😤,2026-04-06,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-215,C-057,O-215,monitor showing weird color tint,2026-04-22,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-315,C-057,O-315,charger heats up too much,2026-05-02,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-058,C-058,O-058,lapotp scren blank,2026-04-06,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-171,C-058,O-171,device not working at all,2026-04-18,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-172,C-058,O-172,ordered blue got black 😡,2026-04-18,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-206,C-058,O-206,i ordered black but this looks dark blue??,2026-04-21,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-306,C-058,O-306,idk not really happy with it,2026-05-01,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-431,C-058,O-583,device restarting randomly,2026-05-14,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-483,C-058,O-631,keyboard not working properly,2026-05-19,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-059,C-059,O-059,chargr burn smel,2026-04-06,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-297,C-059,O-297,box was sealed but item clearly used,2026-04-30,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-397,C-059,O-397,box looked sealed but used item inside,2026-05-10,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-440,C-059,O-640,refund pls no reason,2026-05-14,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-492,C-059,O-747,bluetooth disconnect issue,2026-05-20,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-060,C-060,O-060,hedphones no sound,2026-04-06,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-288,C-060,O-288,expected better honestly,2026-04-29,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-388,C-060,O-388,expected better,2026-05-09,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-061,C-061,O-061,My headphones stopped working within 3 days,2026-04-07,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-121,C-061,O-121,screen cracked right after opening box,2026-04-13,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-122,C-061,O-122,i ordered white got black 😡 why,2026-04-13,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-279,C-061,O-279,this doesnt look like same product tbh,2026-04-28,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-379,C-061,O-379,not same as description,2026-05-08,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-414,C-061,O-478,screen showing faint lines,2026-05-12,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-449,C-061,O-698,this product not same as shown,2026-05-15,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-466,C-061,O-402,ordered black got bluish shade?? 😡,2026-05-17,31,Fraud,No,Frequent Abuser,7,8,1.0
+CMP-062,C-062,O-062,Laptop is not turning on after first use,2026-04-07,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-270,C-062,O-270,idk something feels off with it,2026-04-27,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-370,C-062,O-370,idk feels off,2026-05-07,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-063,C-063,O-063,Phone screen cracked within hours,2026-04-07,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-155,C-063,O-155,battery draining too fast,2026-04-16,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-156,C-063,O-156,prefer another color,2026-04-16,18,Fraud,No,Change of mind,2,8,0.375
+CMP-261,C-063,O-261,phone randomly freezes while using apps,2026-04-27,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-361,C-063,O-361,device rebooting randomly,2026-05-07,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-064,C-064,O-064,Earbuds not connecting properly,2026-04-07,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-252,C-064,O-252,screen ghosting effect visible,2026-04-26,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-352,C-064,O-352,screen flickering slightly,2026-05-06,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-065,C-065,O-065,Tablet not charging at all,2026-04-07,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-189,C-065,O-189,charger overheating,2026-04-19,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-190,C-065,O-190,charger slow but working,2026-04-19,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-243,C-065,O-243,camera blurry even in daylight,2026-04-25,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-343,C-065,O-343,battery draining faster,2026-05-05,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-066,C-066,O-066,Device stopped working after 6 days,2026-04-07,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-234,C-066,O-234,buttons not clicking properly,2026-04-24,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-334,C-066,O-334,mouse clicks not registering,2026-05-04,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-423,C-066,O-533,camera blurry even in daylight,2026-05-13,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-475,C-066,O-526,audio cuts randomly,2026-05-18,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-067,C-067,O-067,Phone dead after update,2026-04-07,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-139,C-067,O-139,network not stable on device,2026-04-14,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-140,C-067,O-140,device fine but want refund,2026-04-14,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-225,C-067,O-225,charging port feels loose,2026-04-23,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-325,C-067,O-325,charging disconnects randomly,2026-05-03,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-068,C-068,O-068,Laptop fan making loud noise,2026-04-07,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-216,C-068,O-216,i dont like this at all,2026-04-22,18,Fraud,No,Change of mind,1,8,0.25
+CMP-316,C-068,O-316,why is this not fully black 😡,2026-05-02,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-406,C-068,O-431,ordered black but looks dark grey??,2026-05-11,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-458,C-068,O-760,expected better quality,2026-05-16,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-069,C-069,O-069,Earbuds volume very low,2026-04-07,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-207,C-069,O-207,box was sealed but item inside looks used,2026-04-21,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-307,C-069,O-307,it works but dont like it anymore,2026-05-01,18,Fraud,No,Change of mind,2,8,0.375
+CMP-432,C-069,O-590,screen touch not responding properly,2026-05-14,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-484,C-069,O-644,mouse not responding properly,2026-05-19,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-070,C-070,O-070,Tablet screen flickers,2026-04-07,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-173,C-070,O-173,keyboard not responding,2026-04-18,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-174,C-070,O-174,used keyboard already returning,2026-04-18,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-298,C-070,O-298,used it for few hrs now refund,2026-04-30,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-398,C-070,O-398,used item returning,2026-05-10,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-441,C-070,O-648,device not detecting sim card,2026-05-15,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-071,C-071,O-071,ok,2026-04-08,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-289,C-071,O-289,not bad but refund pls,2026-04-29,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-389,C-071,O-389,not bad but refund pls,2026-05-09,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-493,C-071,O-759,screen showing lines,2026-05-20,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-072,C-072,O-072,not good,2026-04-08,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-123,C-072,O-123,laptop overheating continuously,2026-04-13,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-124,C-072,O-124,used laptop for event now refund,2026-04-13,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-280,C-072,O-280,product is fine but want refund anyway,2026-04-28,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-380,C-072,O-380,product fine but refund pls,2026-05-08,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-450,C-072,O-705,device is fine but refund pls,2026-05-15,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-073,C-073,O-073,very bad experience,2026-04-08,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-271,C-073,O-271,device not detecting sim card,2026-04-28,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-371,C-073,O-371,device not connecting network,2026-05-08,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-415,C-073,O-483,battery drains too fast,2026-05-12,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-467,C-073,O-415,box had scratches inside,2026-05-17,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-074,C-074,O-074,dont like it,2026-04-08,18,Fraud,No,Change of mind,0,8,0.125
+CMP-262,C-074,O-262,screen touch not working in some areas,2026-04-27,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-362,C-074,O-362,screen not responding properly,2026-05-07,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-075,C-075,O-075,want refund no reason,2026-04-08,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-157,C-075,O-157,keyboard keys broken,2026-04-16,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-158,C-075,O-158,box had something else inside,2026-04-16,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-253,C-075,O-253,keyboard delay when typing fast,2026-04-26,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-353,C-075,O-353,keyboard slow response,2026-05-06,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-076,C-076,O-076,WHY IS THIS BLACK I ORDERED BLUE 😡,2026-04-08,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-244,C-076,O-244,screen brightness fluctuating randomly,2026-04-25,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-344,C-076,O-344,device heating near edges,2026-05-05,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-077,C-077,O-077,box had random stuff inside not my product,2026-04-08,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-191,C-077,O-191,screen not working at all,2026-04-20,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-192,C-077,O-192,wrong color again 😡,2026-04-20,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-235,C-077,O-235,sound cuts in and out randomly,2026-04-24,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-335,C-077,O-335,device heats quickly during use,2026-05-04,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-078,C-078,O-078,used it already now returning,2026-04-08,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-141,C-078,O-141,phone speaker not working,2026-04-15,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-142,C-078,O-142,used phone already now returning,2026-04-15,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-226,C-078,O-226,why is this white i ordered black 😡,2026-04-23,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-326,C-078,O-326,not good,2026-05-03,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-424,C-078,O-540,screen brightness fluctuating,2026-05-13,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-476,C-078,O-538,not what i expected,2026-05-18,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-079,C-079,O-079,wrong model sent completely different,2026-04-08,90,Fraud,No,Unverified mismatch,0,8,0.125
+CMP-217,C-079,O-217,meh not great expected better honestly,2026-04-22,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-317,C-079,O-317,box had scratches on device,2026-05-02,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-407,C-079,O-437,box was sealed but item had scratches,2026-05-11,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-459,C-079,O-768,meh okay but refund pls,2026-05-16,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-080,C-080,O-080,invoice mismatch product,2026-04-08,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-208,C-080,O-208,used it once for presentation now returning,2026-04-21,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-308,C-080,O-308,looks diff than expected,2026-05-01,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-433,C-080,O-597,battery percentage dropping suddenly,2026-05-14,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-485,C-080,O-657,charger overheating issue,2026-05-19,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-081,C-081,O-081,device restarting automatically,2026-04-09,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-299,C-081,O-299,this doesnt match description exactly,2026-04-30,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-399,C-081,O-399,not same as description,2026-05-10,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-442,C-081,O-653,screen flickering under low brightness,2026-05-15,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-082,C-082,O-082,battery heating issue noticed,2026-04-09,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-175,C-082,O-175,earbuds low volume issue,2026-04-18,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-176,C-082,O-176,earbuds okay not great,2026-04-18,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-290,C-082,O-290,feels cheap tbh,2026-04-29,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-390,C-082,O-390,feels cheap,2026-05-09,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-494,C-082,O-772,device heating issue,2026-05-20,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-083,C-083,O-083,network signal weak,2026-04-09,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-281,C-083,O-281,device stuck on loading screen,2026-04-29,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-381,C-083,O-381,device stuck on boot,2026-05-09,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-451,C-083,O-712,device stuck on boot screen,2026-05-16,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-084,C-084,O-084,screen brightness flickering,2026-04-09,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-125,C-084,O-125,mouse cursor lagging badly,2026-04-13,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-126,C-084,O-126,mouse slightly laggy but works,2026-04-13,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-272,C-084,O-272,screen flickering continuously now,2026-04-28,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-372,C-084,O-372,screen flicker issue,2026-05-08,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-085,C-085,O-085,buttons not responsive,2026-04-09,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-263,C-085,O-263,battery draining faster than expected,2026-04-27,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-363,C-085,O-363,battery drops too fast,2026-05-07,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-416,C-085,O-491,not really satisfied tbh,2026-05-12,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-468,C-085,O-429,used item returning now,2026-05-17,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-086,C-086,O-086,ordered white got black 😡,2026-04-09,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-254,C-086,O-254,mouse double click issue randomly,2026-04-26,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-354,C-086,O-354,mouse not responding sometimes,2026-05-06,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-087,C-087,O-087,box had older model device,2026-04-09,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-159,C-087,O-159,earbuds not pairing,2026-04-16,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-160,C-087,O-160,used earbuds now refund,2026-04-16,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-245,C-087,O-245,charging stops midway sometimes,2026-04-25,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-345,C-087,O-345,sound distortion noticed,2026-05-05,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-088,C-088,O-088,used for few days returning now,2026-04-09,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-236,C-088,O-236,ok,2026-04-24,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-336,C-088,O-336,ordered black but this looks off??,2026-05-04,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-089,C-089,O-089,wrong item completely different,2026-04-09,90,Fraud,No,Unverified mismatch,0,8,0.125
+CMP-193,C-089,O-193,keyboard broken completely,2026-04-20,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-194,C-089,O-194,used it now refund pls,2026-04-20,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-227,C-089,O-227,package looked tampered with honestly,2026-04-23,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-327,C-089,O-327,feels weird to use,2026-05-03,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-425,C-089,O-546,charging stops midway sometimes,2026-05-13,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-477,C-089,O-551,dont like it anymore,2026-05-18,43,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-090,C-090,O-090,not matching order details,2026-04-09,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-143,C-090,O-143,laptop not powering on,2026-04-15,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-144,C-090,O-144,ordered silver got black 😡,2026-04-15,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-218,C-090,O-218,it works but i dont want it anymore,2026-04-22,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-318,C-090,O-318,used product returning now,2026-05-02,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-091,C-091,O-091,device not connecting to wifi,2026-04-10,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-209,C-091,O-209,product seems slightly different from what i expected,2026-04-21,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-309,C-091,O-309,meh refund pls,2026-05-01,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-408,C-091,O-442,used it once now returning,2026-05-11,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-460,C-091,O-775,not worth the price,2026-05-16,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-092,C-092,O-092,battery backup very poor,2026-04-10,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-300,C-092,O-300,works fine but i want refund still,2026-04-30,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-400,C-092,O-400,works fine but want refund,2026-05-10,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-434,C-092,O-602,device gets hot near camera area,2026-05-14,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-486,C-092,O-669,why color looks different?? 😡,2026-05-19,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-093,C-093,O-093,audio cuts during playback,2026-04-10,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-291,C-093,O-291,device wont charge past 20 percent,2026-04-30,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-391,C-093,O-391,device wont charge fully,2026-05-10,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-443,C-093,O-660,keyboard typing delay issue,2026-05-15,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-094,C-094,O-094,screen lines appearing randomly,2026-04-10,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-177,C-094,O-177,monitor not displaying anything,2026-04-18,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-178,C-094,O-178,monitor fine but expected better,2026-04-18,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-282,C-094,O-282,bluetooth disconnects randomly,2026-04-29,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-382,C-094,O-382,bluetooth disconnect issue,2026-05-09,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-452,C-094,O-719,bluetooth pairing inconsistent,2026-05-16,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-495,C-094,O-785,audio very low,2026-05-20,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-095,C-095,O-095,charging port loose,2026-04-10,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-273,C-095,O-273,keyboard not registering keystrokes sometimes,2026-04-28,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-373,C-095,O-373,keyboard not working properly,2026-05-08,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-096,C-096,O-096,ordered blue got white why?? 😡,2026-04-10,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-127,C-096,O-127,charger not working after 1 use,2026-04-13,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-128,C-096,O-128,battrey brokn need refnd asap 😤,2026-04-13,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-264,C-096,O-264,device gets hot even on standby,2026-04-27,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-364,C-096,O-364,device gets hot fast,2026-05-07,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-417,C-096,O-496,meh its okay but refund pls,2026-05-12,31,Fraud,No,Frequent Abuser,5,8,0.75
+CMP-469,C-096,O-444,this isnt same product tbh,2026-05-17,31,Fraud,No,Frequent Abuser,6,8,0.875
+CMP-097,C-097,O-097,box had broken item inside,2026-04-10,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-255,C-097,O-255,device heats up near camera area,2026-04-26,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-355,C-097,O-355,device heating up quickly,2026-05-06,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-098,C-098,O-098,used it already still refund,2026-04-10,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-246,C-098,O-246,ordered blue got something like teal??,2026-04-25,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-346,C-098,O-346,meh idk not great,2026-05-05,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-099,C-099,O-099,wrong model sent,2026-04-10,90,Fraud,No,Unverified mismatch,0,8,0.125
+CMP-161,C-099,O-161,monitor dead on arrival,2026-04-17,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-162,C-099,O-162,monitor slightly dim,2026-04-17,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-237,C-099,O-237,??? what is this product even,2026-04-24,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-337,C-099,O-337,box had fingerprints on device,2026-05-04,31,Fraud,No,Frequent Abuser,4,8,0.625
+CMP-100,C-100,O-100,not matching order details,2026-04-10,6,Legitimate,Yes,Valid defect,0,8,0.125
+CMP-228,C-100,O-228,used it already but still want refund,2026-04-23,6,Legitimate,Yes,Valid defect,1,8,0.25
+CMP-328,C-100,O-328,expected more premium feel,2026-05-03,6,Legitimate,Yes,Valid defect,2,8,0.375
+CMP-426,C-100,O-552,why is this not black?? 😡,2026-05-13,21,Fraud,No,Frequent Abuser,3,8,0.5
+CMP-478,C-100,O-566,looks diff from website,2026-05-18,31,Fraud,No,Frequent Abuser,4,8,0.625
