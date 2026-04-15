@@ -1,0 +1,451 @@
+complaint_text,label,severity,sentiment,urgency,issue_type,issue_name
+The Anker PowerCore 20000 home button is slightly stiff but still clicks properly.,0,1,-0.1071,0,4,hardware
+The Samsung Galaxy Watch 5 is physically destroyed. Could not use it even one day.,1,3,0.0,0,4,hardware
+The Asus ROG Strix G15 Laptop stopped working entirely. I cannot use it for anything now.,1,3,0.0,0,4,hardware
+My JBL Tune 760NC Headphones overheats frequently. It is warm even when idle.,0,2,0.6,0,2,performance
+Minor audio imbalance on the Bose QuietComfort 45. One side is slightly louder.,0,1,-0.1083,0,3,connectivity
+There is a minor delay when typing on my JBL Tune 760NC Headphones.,0,1,-0.05,0,2,performance
+Received a Sony WH-1000XM5 Headphones with a shattered screen. Cannot use it at all.,1,3,0.0,0,0,screen
+My JBL Flip 6 Speaker spontaneously stopped working. Nothing turns on.,1,3,0.6,0,4,hardware
+My Corsair K70 RGB Keyboard Bluetooth is unstable and disconnects without warning.,0,2,0.0,0,3,connectivity
+Screen is badly cracked on my new OnePlus Nord CE 3. No way to operate it.,1,3,-0.2818,0,0,screen
+The Bose QuietComfort 45 runs very hot all the time. Overheating is a serious problem.,0,2,-0.0042,0,4,hardware
+"The Apple AirPods Pro 2 won't power on at all. No lights, no response.",1,3,0.0,0,4,hardware
+The Logitech MX Master 3S Mouse was delivered cracked and completely non-functional.,1,3,0.1,0,0,screen
+"The OnePlus Nord CE 3 died completely after 3 days of use. No charging, no response.",1,3,0.1,0,4,hardware
+My Dell Inspiron 15 Laptop camera produces distorted images. Cannot use the camera at all.,0,2,0.0,0,0,screen
+The OnePlus Nord CE 3 battery drains very fast. It barely lasts 2 hours.,0,2,0.155,0,1,battery
+The Sony WH-1000XM5 Headphones keeps disconnecting from WiFi unexpectedly. Very frustrating.,0,2,-0.52,0,3,connectivity
+The Razer Viper Mini Mouse occasionally shows a brief flicker on startup. Very rare.,0,1,0.13,0,4,hardware
+"The iPhone 14 box was slightly dented, but the product itself is fine.",0,3,0.125,0,0,screen
+The Logitech MX Master 3S Mouse display brightness flickers very briefly occasionally.,0,1,0.0,0,1,battery
+The Asus ROG Strix G15 Laptop battery drains very fast. It barely lasts 2 hours.,0,2,0.155,0,1,battery
+Severe damage to my Samsung Galaxy S23. The screen is shattered and won't turn on.,1,3,0.0,0,0,screen
+WiFi keeps dropping on my Logitech MX Master 3S Mouse. Have to reconnect every 15 minutes.,0,2,0.0,0,3,connectivity
+Bluetooth disconnects every few minutes on my Sony WH-1000XM5 Headphones. Unusable for calls.,0,2,-0.2,0,3,connectivity
+The Logitech MX Master 3S Mouse is completely dead and cannot be repaired. Hardware failure.,1,3,-0.2583,0,4,hardware
+My Corsair K70 RGB Keyboard camera produces distorted images. Cannot use the camera at all.,0,2,0.0,0,4,hardware
+The Anker PowerCore 20000 home button is slightly stiff but still clicks properly.,0,1,-0.1071,0,4,hardware
+The Asus ROG Strix G15 Laptop is physically destroyed. Could not use it even one day.,1,3,0.0,0,4,hardware
+The iPhone 14 sometimes has a very minor echo on calls. Barely noticeable.,0,1,-0.0075,0,3,connectivity
+The Dell Inspiron 15 Laptop drops Bluetooth intermittently. I have to reconnect every time.,0,2,0.0,0,3,connectivity
+The Logitech MX Master 3S Mouse has a tiny mark on the screen protector. Nothing major.,0,1,0.0312,0,0,screen
+My Galaxy Tab S9 is continuously restarting. Very difficult to use.,0,2,-0.65,0,4,hardware
+The Apple AirPods Pro 2 has a massive crack across the display. Completely unusable.,1,3,0.05,0,0,screen
+The iPad Air is completely dead and cannot be repaired. Hardware failure.,1,3,-0.2583,0,4,hardware
+The iPhone 14 camera is blurry all the time. Every photo is out of focus.,0,2,0.0,0,2,performance
+The Corsair K70 RGB Keyboard has a severe hardware failure. It is entirely non-functional.,1,3,-0.1583,0,4,hardware
+Minor audio imbalance on the Apple AirPods Pro 2. One side is slightly louder.,0,1,-0.1083,0,3,connectivity
+My Samsung Galaxy S23 is completely unresponsive. It is dead and will not start.,1,3,-0.05,0,4,hardware
+The Corsair K70 RGB Keyboard battery health is very bad. Charging does not hold.,0,2,-0.91,0,1,battery
+"The Bose QuietComfort 45 won't power on at all. No lights, no response.",1,3,0.0,0,4,hardware
+The Razer Viper Mini Mouse casing is cracked and the internal components are exposed.,1,3,0.0,0,0,screen
+Screen is badly cracked on my new Dell UltraSharp 27 Monitor. No way to operate it.,1,3,-0.2818,0,0,screen
+The Asus ROG Strix G15 Laptop occasionally shows a brief flicker on startup. Very rare.,0,1,0.13,0,2,performance
+The OnePlus Nord CE 3 screen was cracked when I opened the package.,1,3,0.0,0,0,screen
+My Galaxy Tab S9 freezes and then restarts unexpectedly. This is happening daily.,0,2,0.05,0,2,performance
+The Apple AirPods Pro 2 sometimes has a very minor echo on calls. Barely noticeable.,0,1,-0.0075,0,3,connectivity
+The Apple AirPods Pro 2 fell apart within days. It is unusable now.,1,3,0.0,0,4,hardware
+The Dell UltraSharp 27 Monitor has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+The Corsair K70 RGB Keyboard charging port is slightly tight. Charges fine once connected.,0,2,0.119,0,1,battery
+"The JBL Flip 6 Speaker died completely after 3 days of use. No charging, no response.",1,3,0.1,0,1,battery
+WiFi keeps dropping on my Samsung Galaxy Watch 5. Have to reconnect every 15 minutes.,0,2,0.0,0,3,connectivity
+The Dell UltraSharp 27 Monitor display cracked on arrival. The device is totally broken.,1,3,-0.4,0,0,screen
+The JBL Tune 760NC Headphones has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+The iPhone 14 occasionally shows a brief flicker on startup. Very rare.,0,1,0.13,0,0,screen
+There is a very slight colour tint on one corner of the Dell UltraSharp 27 Monitor screen.,0,1,-0.2167,0,0,screen
+The Galaxy Tab S9 has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+The Sony WH-1000XM5 Headphones is completely dead and cannot be repaired. Hardware failure.,1,3,-0.2583,0,4,hardware
+My Dell Inspiron 15 Laptop is completely unresponsive. It is dead and will not start.,1,3,-0.05,0,4,hardware
+The Asus ROG Strix G15 Laptop battery drains very fast. It barely lasts 2 hours.,0,2,0.155,0,1,battery
+The Razer Viper Mini Mouse disconnects from the network at least 5 times per hour.,0,2,-0.3,0,3,connectivity
+The Asus ROG Strix G15 Laptop arrived with a broken screen. Cannot power it on.,1,3,-0.4,0,0,screen
+The JBL Tune 760NC Headphones restarts randomly several times a day.,0,2,0.0,0,3,connectivity
+My Razer Viper Mini Mouse screen cracked after one small drop. Everything is unreadable.,1,3,-0.25,0,0,screen
+Very minor lag on the Anker PowerCore 20000 when opening apps. Otherwise fine.,0,1,0.1758,0,2,performance
+My Samsung Galaxy Watch 5 Bluetooth is unstable and disconnects without warning.,0,2,0.0,0,3,connectivity
+The Dell UltraSharp 27 Monitor volume button is a tiny bit loose. Everything works normally.,0,1,0.0244,0,4,hardware
+The Dell Inspiron 15 Laptop overheats during normal use. It gets too hot to hold.,0,2,0.2,0,2,performance
+My Samsung Galaxy S23 is completely dead. It won't turn on no matter what I try.,1,3,-0.2,0,4,hardware
+My iPhone 14 keeps losing its Bluetooth connection every few minutes.,0,2,-0.2,0,3,connectivity
+The Corsair K70 RGB Keyboard runs very hot all the time. Overheating is a serious problem.,0,2,-0.0042,0,4,hardware
+The iPhone 14 takes a second or two longer to load than expected.,0,1,-0.05,0,2,performance
+The Apple AirPods Pro 2 keeps disconnecting from WiFi unexpectedly. Very frustrating.,0,2,-0.52,0,3,connectivity
+My Sony WH-1000XM5 Headphones screen cracked after one small drop. Everything is unreadable.,1,3,-0.25,0,0,screen
+The Corsair K70 RGB Keyboard runs very hot all the time. Overheating is a serious problem.,0,2,-0.0042,0,4,hardware
+The Corsair K70 RGB Keyboard arrived with a broken screen. Cannot power it on.,1,3,-0.4,0,0,screen
+Slight audio delay on my Sony WH-1000XM5 Headphones when watching videos. Minor issue.,0,1,-0.1083,0,2,performance
+The Samsung Galaxy Watch 5 has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+Screen is badly cracked on my new OnePlus Nord CE 3. No way to operate it.,1,3,-0.2818,0,0,screen
+My iPad Air touch screen has a very slight delay in one small area.,0,1,-0.2333,0,2,performance
+My OnePlus Nord CE 3 has occasional minor slow-downs that are barely noticeable.,0,1,-0.075,0,2,performance
+The Galaxy Tab S9 is dead on arrival. Pressing the power button does nothing.,1,3,-0.2,0,4,hardware
+My Corsair K70 RGB Keyboard freezes and then restarts unexpectedly. This is happening daily.,0,2,0.05,0,4,hardware
+WiFi keeps dropping on my Razer Viper Mini Mouse. Have to reconnect every 15 minutes.,0,2,0.0,0,3,connectivity
+My Logitech MX Master 3S Mouse is completely dead. It won't turn on no matter what I try.,1,3,-0.2,0,4,hardware
+The Apple AirPods Pro 2 reboots on its own without warning at least twice a day.,0,2,0.15,0,4,hardware
+There is a loud buzzing noise from my Dell UltraSharp 27 Monitor at all times.,0,1,0.1,0,0,screen
+Very minor lag on the Bose QuietComfort 45 when opening apps. Otherwise fine.,0,1,0.1758,0,2,performance
+Dead on arrival: the Anker PowerCore 20000 screen is cracked and shows nothing.,1,3,-0.2,0,0,screen
+The Corsair K70 RGB Keyboard arrived with a broken screen. Cannot power it on.,1,3,-0.4,0,0,screen
+There is a slight scuff on the corner of my iPhone 14. Minor cosmetic issue.,0,1,-0.1083,0,0,screen
+My iPad Air spontaneously stopped working. Nothing turns on.,1,3,0.6,0,4,hardware
+Bluetooth disconnects every few minutes on my Apple AirPods Pro 2. Unusable for calls.,0,2,-0.2,0,3,connectivity
+The Galaxy Tab S9 casing is cracked and the internal components are exposed.,1,3,0.0,0,0,screen
+The Samsung Galaxy Watch 5 overheats during normal use. It gets too hot to hold.,0,2,0.2,0,2,performance
+The Dell Inspiron 15 Laptop restarts randomly several times a day.,0,2,0.0,0,4,hardware
+The OnePlus Nord CE 3 takes a second or two longer to load than expected.,0,1,-0.05,0,2,performance
+The Samsung Galaxy S23 drops Bluetooth intermittently. I have to reconnect every time.,0,2,0.0,0,3,connectivity
+The OnePlus Nord CE 3 screen was cracked when I opened the package.,1,3,0.0,0,0,screen
+My iPhone 14 freezes and then restarts unexpectedly. This is happening daily.,0,2,0.05,0,2,performance
+The Anker PowerCore 20000 charging port is slightly tight. Charges fine once connected.,0,1,0.119,0,1,battery
+My JBL Tune 760NC Headphones spontaneously stopped working. Nothing turns on.,1,3,0.6,0,4,hardware
+Small cosmetic scratch on the Asus ROG Strix G15 Laptop body. Functionality is perfect.,0,1,0.375,0,0,screen
+The Samsung Galaxy Watch 5 battery drains very fast. It barely lasts 2 hours.,0,2,0.155,0,1,battery
+My Dell UltraSharp 27 Monitor is completely broken. Nothing works and it won't start.,1,3,-0.4,0,0,screen
+The JBL Tune 760NC Headphones disconnects from Bluetooth constantly. Cannot use it properly.,0,2,0.0,0,3,connectivity
+Screen is badly cracked on my new Apple AirPods Pro 2. No way to operate it.,1,3,-0.2818,0,0,screen
+The Corsair K70 RGB Keyboard display has dead pixels scattered across the screen.,0,3,-0.2,0,0,screen
+My Sony WH-1000XM5 Headphones went completely dead overnight. Nothing happens when I press power.,1,3,-0.2,0,4,hardware
+The iPad Air battery health is very bad. Charging does not hold.,0,2,-0.91,0,1,battery
+There is a minor creak in the Asus ROG Strix G15 Laptop chassis. No functional issue.,0,1,-0.05,0,0,screen
+The JBL Tune 760NC Headphones arrived broken. The power button does not respond at all.,1,3,-0.4,0,4,hardware
+The JBL Flip 6 Speaker home button is slightly stiff but still clicks properly.,0,1,-0.1071,0,3,connectivity
+The Apple AirPods Pro 2 has a tiny mark on the screen protector. Nothing major.,0,1,0.0312,0,0,screen
+The Bose QuietComfort 45 occasionally shows a brief flicker on startup. Very rare.,0,1,0.13,0,3,connectivity
+My Galaxy Tab S9 is slightly slow when loading apps. Minor performance issue.,0,2,-0.175,0,2,performance
+There is a minor delay when typing on my Dell UltraSharp 27 Monitor.,0,1,-0.05,0,2,performance
+The Asus ROG Strix G15 Laptop display has dead pixels scattered across the screen.,0,3,-0.2,0,0,screen
+The Corsair K70 RGB Keyboard disconnects from Bluetooth constantly. Cannot use it properly.,0,2,0.0,0,3,connectivity
+The Bose QuietComfort 45 occasionally shows a brief flicker on startup. Very rare.,0,1,0.13,0,3,connectivity
+There is a minor creak in the Corsair K70 RGB Keyboard chassis. No functional issue.,0,1,-0.05,0,4,hardware
+There is a minor creak in the Samsung Galaxy S23 chassis. No functional issue.,0,1,-0.05,0,0,screen
+My Sony WH-1000XM5 Headphones went completely dead overnight. Nothing happens when I press power.,1,3,-0.2,0,4,hardware
+The Sony WH-1000XM5 Headphones screen was cracked when I opened the package.,1,3,0.0,0,0,screen
+The Dell Inspiron 15 Laptop broke within one week of purchase. It won't turn on anymore.,1,3,0.0,0,4,hardware
+"The Asus ROG Strix G15 Laptop box was slightly dented, but the product itself is fine.",0,3,0.125,0,0,screen
+The Dell UltraSharp 27 Monitor battery health is very bad. Charging does not hold.,0,2,-0.91,0,1,battery
+There is a slight scuff on the corner of my Logitech MX Master 3S Mouse. Minor cosmetic issue.,0,1,-0.1083,0,0,screen
+The iPad Air drops Bluetooth intermittently. I have to reconnect every time.,0,2,0.0,0,3,connectivity
+The OnePlus Nord CE 3 stopped working entirely. I cannot use it for anything now.,1,3,0.0,0,4,hardware
+My Razer Viper Mini Mouse battery life is extremely poor. Dies within 90 minutes.,0,2,-0.4,0,1,battery
+The iPad Air screen was cracked when I opened the package.,1,3,0.0,0,0,screen
+My Corsair K70 RGB Keyboard battery life is extremely poor. Dies within 90 minutes.,0,2,-0.4,0,1,battery
+Bought a Samsung Galaxy S23 and it is totally dead. Cannot turn it on at all.,1,3,-0.2,0,4,hardware
+There is a minor delay when typing on my Bose QuietComfort 45.,0,1,-0.05,0,2,performance
+Severe damage to my Logitech MX Master 3S Mouse. The screen is shattered and won't turn on.,1,3,0.0,0,0,screen
+The Dell UltraSharp 27 Monitor is dead on arrival. Pressing the power button does nothing.,1,3,-0.2,0,4,hardware
+The Dell UltraSharp 27 Monitor camera is blurry all the time. Every photo is out of focus.,0,2,0.0,0,2,performance
+The Sony WH-1000XM5 Headphones charges very slowly and drains battery very quickly.,0,2,0.0217,0,1,battery
+The iPhone 14 keeps disconnecting from WiFi unexpectedly. Very frustrating.,0,2,-0.52,0,3,connectivity
+There is a minor creak in the Anker PowerCore 20000 chassis. No functional issue.,0,1,-0.05,0,4,hardware
+The Samsung Galaxy Watch 5 charging port is slightly tight. Charges fine once connected.,0,2,0.119,0,1,battery
+The Asus ROG Strix G15 Laptop home button is slightly stiff but still clicks properly.,0,1,-0.1071,0,0,screen
+There is a minor creak in the Dell UltraSharp 27 Monitor chassis. No functional issue.,0,1,-0.05,0,0,screen
+The Apple AirPods Pro 2 charges very slowly and drains battery very quickly.,0,2,0.0217,0,1,battery
+The OnePlus Nord CE 3 arrived broken. The power button does not respond at all.,1,3,-0.4,0,4,hardware
+Very minor lag on the Samsung Galaxy S23 when opening apps. Otherwise fine.,0,1,0.1758,0,2,performance
+The JBL Flip 6 Speaker drops Bluetooth intermittently. I have to reconnect every time.,0,2,0.0,0,3,connectivity
+The Sony WH-1000XM5 Headphones sometimes has a very minor echo on calls. Barely noticeable.,0,1,-0.0075,0,3,connectivity
+The Dell Inspiron 15 Laptop has a severe hardware failure. It is entirely non-functional.,1,3,-0.1583,0,4,hardware
+My JBL Flip 6 Speaker freezes and then restarts unexpectedly. This is happening daily.,0,2,0.05,0,4,hardware
+The Bose QuietComfort 45 volume button is a tiny bit loose. Everything works normally.,0,1,0.0244,0,4,hardware
+The Logitech MX Master 3S Mouse broke within one week of purchase. It won't turn on anymore.,1,3,0.0,0,4,hardware
+My Apple AirPods Pro 2 is completely dead. It won't turn on no matter what I try.,1,3,-0.2,0,4,hardware
+My Apple AirPods Pro 2 went completely dead overnight. Nothing happens when I press power.,1,3,-0.2,0,4,hardware
+The Apple AirPods Pro 2 screen was cracked when I opened the package.,1,3,0.0,0,0,screen
+The Apple AirPods Pro 2 has a massive crack across the display. Completely unusable.,1,3,0.05,0,0,screen
+My Dell Inspiron 15 Laptop is completely unresponsive. It is dead and will not start.,1,3,-0.05,0,4,hardware
+The Anker PowerCore 20000 charges very slowly and drains battery very quickly.,0,2,0.0217,0,1,battery
+There is a minor creak in the Samsung Galaxy Watch 5 chassis. No functional issue.,0,1,-0.05,0,0,screen
+"The OnePlus Nord CE 3 won't power on at all. No lights, no response.",1,3,0.0,0,4,hardware
+The Samsung Galaxy Watch 5 battery health is very bad. Charging does not hold.,0,2,-0.91,0,1,battery
+The Dell UltraSharp 27 Monitor sometimes has a very minor echo on calls. Barely noticeable.,0,1,-0.0075,0,0,screen
+There is a minor delay when typing on my Dell Inspiron 15 Laptop.,0,1,-0.05,0,2,performance
+The Logitech MX Master 3S Mouse is completely dead and cannot be repaired. Hardware failure.,1,3,-0.2583,0,4,hardware
+The Galaxy Tab S9 keeps disconnecting from WiFi unexpectedly. Very frustrating.,0,2,-0.52,0,3,connectivity
+Bought a Apple AirPods Pro 2 and it is totally dead. Cannot turn it on at all.,1,3,-0.2,0,4,hardware
+My OnePlus Nord CE 3 is completely broken. The screen is black and there is no power.,1,3,-0.2833,0,4,hardware
+The Logitech MX Master 3S Mouse camera is blurry all the time. Every photo is out of focus.,0,2,0.0,0,2,performance
+The Samsung Galaxy S23 occasionally shows a brief flicker on startup. Very rare.,0,1,0.13,0,0,screen
+The JBL Tune 760NC Headphones overheats and then shuts down automatically. Not acceptable.,0,2,-0.1556,0,3,connectivity
+There is a loud buzzing noise from my Apple AirPods Pro 2 at all times.,0,2,0.1,0,3,connectivity
+The Galaxy Tab S9 home button is slightly stiff but still clicks properly.,0,1,-0.1071,0,0,screen
+The Dell Inspiron 15 Laptop screen was cracked when I opened the package.,1,3,0.0,0,0,screen
+The Sony WH-1000XM5 Headphones battery drains very fast. It barely lasts 2 hours.,0,2,0.155,0,1,battery
+The Corsair K70 RGB Keyboard occasionally shows a brief flicker on startup. Very rare.,0,1,0.13,0,2,performance
+The Logitech MX Master 3S Mouse casing is cracked and the internal components are exposed.,1,3,0.0,0,0,screen
+Screen is badly cracked on my new Samsung Galaxy S23. No way to operate it.,1,3,-0.2818,0,0,screen
+The JBL Flip 6 Speaker battery health is very bad. Charging does not hold.,0,2,-0.91,0,1,battery
+Received a iPhone 14 with a shattered screen. Cannot use it at all.,1,3,0.0,0,0,screen
+The Corsair K70 RGB Keyboard display has dead pixels scattered across the screen.,0,3,-0.2,0,0,screen
+The iPad Air battery drains very fast. It barely lasts 2 hours.,0,2,0.155,0,1,battery
+There is a minor delay when typing on my Samsung Galaxy S23.,0,1,-0.05,0,2,performance
+"The Razer Viper Mini Mouse box was slightly dented, but the product itself is fine.",0,3,0.125,0,0,screen
+The Sony WH-1000XM5 Headphones battery health is very bad. Charging does not hold.,0,2,-0.91,0,1,battery
+The Apple AirPods Pro 2 fell apart within days. It is unusable now.,1,3,0.0,0,4,hardware
+The Samsung Galaxy S23 has a slight lag when switching between apps.,0,1,-0.1667,0,2,performance
+The Bose QuietComfort 45 takes a second or two longer to load than expected.,0,1,-0.05,0,2,performance
+There is a minor delay when typing on my Dell UltraSharp 27 Monitor.,0,1,-0.05,0,2,performance
+The Sony WH-1000XM5 Headphones display cracked on arrival. The device is totally broken.,1,3,-0.4,0,0,screen
+The Logitech MX Master 3S Mouse has a severe hardware failure. It is entirely non-functional.,1,3,-0.1583,0,4,hardware
+There is a slight scuff on the corner of my Razer Viper Mini Mouse. Minor cosmetic issue.,0,1,-0.1083,0,0,screen
+My Asus ROG Strix G15 Laptop battery life is extremely poor. Dies within 90 minutes.,0,2,-0.4,0,1,battery
+The iPad Air display has dead pixels scattered across the screen.,0,3,-0.2,0,0,screen
+The Galaxy Tab S9 runs very hot all the time. Overheating is a serious problem.,0,2,-0.0042,0,4,hardware
+My Razer Viper Mini Mouse touch screen has a very slight delay in one small area.,0,1,-0.2333,0,2,performance
+My OnePlus Nord CE 3 is completely unresponsive. It is dead and will not start.,1,3,-0.05,0,4,hardware
+The Razer Viper Mini Mouse overheats and then shuts down automatically. Not acceptable.,0,2,-0.1556,0,4,hardware
+The Dell UltraSharp 27 Monitor runs very hot all the time. Overheating is a serious problem.,0,2,-0.0042,0,4,hardware
+The Galaxy Tab S9 speaker produces a constant buzzing sound when playing audio.,0,1,0.2,0,1,battery
+The Dell UltraSharp 27 Monitor display cracked on arrival. The device is totally broken.,1,3,-0.4,0,0,screen
+Slight audio delay on my iPhone 14 when watching videos. Minor issue.,0,1,-0.1083,0,2,performance
+The Samsung Galaxy S23 restarts randomly several times a day.,0,2,0.0,0,3,connectivity
+The JBL Tune 760NC Headphones is completely dead and cannot be repaired. Hardware failure.,1,3,-0.2583,0,4,hardware
+There is a minor creak in the Dell Inspiron 15 Laptop chassis. No functional issue.,0,1,-0.05,0,0,screen
+The Corsair K70 RGB Keyboard has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+Slight audio delay on my Galaxy Tab S9 when watching videos. Minor issue.,0,1,-0.1083,0,2,performance
+Slight audio delay on my Bose QuietComfort 45 when watching videos. Minor issue.,0,1,-0.1083,0,2,performance
+The Bose QuietComfort 45 has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+The Galaxy Tab S9 is dead on arrival. Pressing the power button does nothing.,1,3,-0.2,0,4,hardware
+Small cosmetic scratch on the Sony WH-1000XM5 Headphones body. Functionality is perfect.,0,1,0.375,0,0,screen
+The OnePlus Nord CE 3 has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+There is a slight scuff on the corner of my Samsung Galaxy S23. Minor cosmetic issue.,0,1,-0.1083,0,0,screen
+The Asus ROG Strix G15 Laptop has catastrophic damage. Nothing works at all.,1,3,0.0,0,0,screen
+The Galaxy Tab S9 disconnects from the network at least 5 times per hour.,0,2,-0.3,0,3,connectivity
+Bought a JBL Flip 6 Speaker and it is totally dead. Cannot turn it on at all.,1,3,-0.2,0,4,hardware
+My Razer Viper Mini Mouse has occasional minor slow-downs that are barely noticeable.,0,1,-0.075,0,2,performance
+"The Apple AirPods Pro 2 died completely after 3 days of use. No charging, no response.",1,3,0.1,0,4,hardware
+Very minor lag on the Apple AirPods Pro 2 when opening apps. Otherwise fine.,0,1,0.1758,0,2,performance
+The OnePlus Nord CE 3 has catastrophic damage. Nothing works at all.,1,3,0.0,0,4,hardware
+Severe damage to my iPhone 14. The screen is shattered and won't turn on.,1,3,0.0,0,0,screen
+The Corsair K70 RGB Keyboard disconnects from Bluetooth constantly. Cannot use it properly.,0,2,0.0,0,3,connectivity
+The Anker PowerCore 20000 randomly restarts during use. Losing unsaved work constantly.,0,2,-0.25,0,4,hardware
+There is a very slight colour tint on one corner of the Bose QuietComfort 45 screen.,0,1,-0.2167,0,3,connectivity
+There is a minor delay when typing on my Dell UltraSharp 27 Monitor.,0,1,-0.05,0,2,performance
+My Sony WH-1000XM5 Headphones battery life is extremely poor. Dies within 90 minutes.,0,2,-0.4,0,1,battery
+My Galaxy Tab S9 is a bit slow at startup. Not a big issue but noticeable.,0,1,-0.15,0,2,performance
+Severe damage to my Galaxy Tab S9. The screen is shattered and won't turn on.,1,3,0.0,0,0,screen
+My Razer Viper Mini Mouse arrived and would not boot. Completely dead unit.,1,3,-0.2,0,4,hardware
+The Apple AirPods Pro 2 display has dead pixels scattered across the screen.,0,3,-0.2,0,0,screen
+The OnePlus Nord CE 3 drops Bluetooth intermittently. I have to reconnect every time.,0,2,0.0,0,3,connectivity
+The Sony WH-1000XM5 Headphones has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+The Razer Viper Mini Mouse has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+The Galaxy Tab S9 fell apart within days. It is unusable now.,1,3,0.0,0,0,screen
+My Samsung Galaxy Watch 5 is continuously restarting. Very difficult to use.,0,2,-0.65,0,4,hardware
+The Apple AirPods Pro 2 charging port is slightly tight. Charges fine once connected.,0,2,0.119,0,1,battery
+The Sony WH-1000XM5 Headphones is dead on arrival. Pressing the power button does nothing.,1,3,-0.2,0,4,hardware
+Screen is badly cracked on my new Samsung Galaxy S23. No way to operate it.,1,3,-0.2818,0,0,screen
+My Anker PowerCore 20000 is completely unresponsive. It is dead and will not start.,1,3,-0.05,0,4,hardware
+The Dell UltraSharp 27 Monitor has catastrophic damage. Nothing works at all.,1,3,0.0,0,0,screen
+Dead on arrival: the Galaxy Tab S9 screen is cracked and shows nothing.,1,3,-0.2,0,0,screen
+The JBL Tune 760NC Headphones home button is slightly stiff but still clicks properly.,0,1,-0.1071,0,3,connectivity
+My Sony WH-1000XM5 Headphones freezes and then restarts unexpectedly. This is happening daily.,0,2,0.05,0,4,hardware
+My Dell UltraSharp 27 Monitor is completely unresponsive. It is dead and will not start.,1,3,-0.05,0,4,hardware
+The JBL Tune 760NC Headphones fell apart within days. It is unusable now.,1,3,0.0,0,4,hardware
+The JBL Flip 6 Speaker volume button is a tiny bit loose. Everything works normally.,0,1,0.0244,0,3,connectivity
+The Razer Viper Mini Mouse battery drains very fast. It barely lasts 2 hours.,0,2,0.155,0,1,battery
+The OnePlus Nord CE 3 has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+The Logitech MX Master 3S Mouse display has dead pixels scattered across the screen.,0,1,-0.2,0,0,screen
+The Asus ROG Strix G15 Laptop arrived broken. The power button does not respond at all.,1,3,-0.4,0,4,hardware
+My Anker PowerCore 20000 hardware failed completely. It no longer turns on or responds.,1,3,-0.275,0,4,hardware
+Received a Dell UltraSharp 27 Monitor with a shattered screen. Cannot use it at all.,1,3,0.0,0,0,screen
+The Galaxy Tab S9 volume button is a tiny bit loose. Everything works normally.,0,1,0.0244,0,1,battery
+My Apple AirPods Pro 2 Bluetooth is unstable and disconnects without warning.,0,2,0.0,0,3,connectivity
+There is a loud buzzing noise from my iPad Air at all times.,0,2,0.1,0,3,connectivity
+There is a very slight colour tint on one corner of the iPhone 14 screen.,0,1,-0.2167,0,0,screen
+The Anker PowerCore 20000 has catastrophic damage. Nothing works at all.,1,3,0.0,0,4,hardware
+My Sony WH-1000XM5 Headphones is continuously restarting. Very difficult to use.,0,2,-0.65,0,4,hardware
+My JBL Tune 760NC Headphones is a bit slow at startup. Not a big issue but noticeable.,0,1,-0.15,0,2,performance
+My Razer Viper Mini Mouse is completely dead. It won't turn on no matter what I try.,1,3,-0.2,0,4,hardware
+"The Dell UltraSharp 27 Monitor box was slightly dented, but the product itself is fine.",0,3,0.125,0,0,screen
+My Galaxy Tab S9 arrived and would not boot. Completely dead unit.,1,3,-0.2,0,4,hardware
+The Apple AirPods Pro 2 charging port is slightly tight. Charges fine once connected.,0,2,0.119,0,1,battery
+My Dell UltraSharp 27 Monitor overheats frequently. It is warm even when idle.,0,2,0.6,0,2,performance
+My iPhone 14 overheats frequently. It is warm even when idle.,0,2,0.6,0,2,performance
+Bluetooth disconnects every few minutes on my Samsung Galaxy S23. Unusable for calls.,0,2,-0.2,0,3,connectivity
+My Anker PowerCore 20000 camera produces distorted images. Cannot use the camera at all.,0,2,0.0,0,0,screen
+The Asus ROG Strix G15 Laptop response time is slightly slower than advertised.,0,1,-0.1667,0,2,performance
+There is a slight scuff on the corner of my Samsung Galaxy S23. Minor cosmetic issue.,0,1,-0.1083,0,0,screen
+The JBL Tune 760NC Headphones speaker produces a constant buzzing sound when playing audio.,0,1,0.2,0,3,connectivity
+My Corsair K70 RGB Keyboard overheats frequently. It is warm even when idle.,0,2,0.6,0,2,performance
+My JBL Tune 760NC Headphones is completely unresponsive. It is dead and will not start.,1,3,-0.05,0,4,hardware
+The Apple AirPods Pro 2 volume button is a tiny bit loose. Everything works normally.,0,1,0.0244,0,4,hardware
+The Dell UltraSharp 27 Monitor display cracked on arrival. The device is totally broken.,1,3,-0.4,0,0,screen
+"The Bose QuietComfort 45 won't power on at all. No lights, no response.",1,3,0.0,0,4,hardware
+My Dell Inspiron 15 Laptop has a minor blemish on the casing. Very small.,0,1,-0.1875,0,0,screen
+The OnePlus Nord CE 3 arrived with a broken screen. Cannot power it on.,1,3,-0.4,0,0,screen
+My Corsair K70 RGB Keyboard is slightly slow when loading apps. Minor performance issue.,0,1,-0.175,0,2,performance
+My JBL Flip 6 Speaker is a bit slow at startup. Not a big issue but noticeable.,0,1,-0.15,0,2,performance
+The JBL Flip 6 Speaker speaker produces a constant buzzing sound when playing audio.,0,1,0.2,0,3,connectivity
+Slight audio delay on my Dell UltraSharp 27 Monitor when watching videos. Minor issue.,0,1,-0.1083,0,2,performance
+The Bose QuietComfort 45 randomly restarts during use. Losing unsaved work constantly.,0,2,-0.25,0,3,connectivity
+The Samsung Galaxy S23 arrived with a broken screen. Cannot power it on.,1,3,-0.4,0,0,screen
+The Galaxy Tab S9 speaker produces a constant buzzing sound when playing audio.,0,1,0.2,0,1,battery
+The iPhone 14 freezes intermittently and then performs a forced reboot.,0,2,-0.3,0,2,performance
+Screen is badly cracked on my new Bose QuietComfort 45. No way to operate it.,1,3,-0.2818,0,0,screen
+"The Logitech MX Master 3S Mouse box was slightly dented, but the product itself is fine.",0,1,0.125,0,0,screen
+Minor audio imbalance on the Dell UltraSharp 27 Monitor. One side is slightly louder.,0,1,-0.1083,0,0,screen
+My JBL Tune 760NC Headphones is completely dead. It won't turn on no matter what I try.,1,3,-0.2,0,4,hardware
+My Bose QuietComfort 45 Bluetooth is unstable and disconnects without warning.,0,2,0.0,0,3,connectivity
+My Asus ROG Strix G15 Laptop keeps losing its Bluetooth connection every few minutes.,0,2,-0.2,0,3,connectivity
+The Dell Inspiron 15 Laptop battery health is very bad. Charging does not hold.,0,2,-0.91,0,1,battery
+My iPhone 14 is overheating badly. It burns my hand during use.,0,2,-0.7,0,0,screen
+The Apple AirPods Pro 2 arrived with a broken screen. Cannot power it on.,1,3,-0.4,0,0,screen
+There is a minor creak in the Dell Inspiron 15 Laptop chassis. No functional issue.,0,1,-0.05,0,0,screen
+The Corsair K70 RGB Keyboard broke within one week of purchase. It won't turn on anymore.,1,3,0.0,0,4,hardware
+My Asus ROG Strix G15 Laptop has occasional minor slow-downs that are barely noticeable.,0,1,-0.075,0,2,performance
+The Corsair K70 RGB Keyboard disconnects from Bluetooth constantly. Cannot use it properly.,0,2,0.0,0,3,connectivity
+The Galaxy Tab S9 volume button is a tiny bit loose. Everything works normally.,0,1,0.0244,0,1,battery
+The Asus ROG Strix G15 Laptop display brightness flickers very briefly occasionally.,0,1,0.0,0,0,screen
+The Asus ROG Strix G15 Laptop takes a second or two longer to load than expected.,0,1,-0.05,0,2,performance
+The iPad Air sometimes has a very minor echo on calls. Barely noticeable.,0,1,-0.0075,0,3,connectivity
+The Samsung Galaxy S23 keeps disconnecting from WiFi unexpectedly. Very frustrating.,0,2,-0.52,0,3,connectivity
+My Dell UltraSharp 27 Monitor keeps restarting by itself. It does this multiple times daily.,0,2,0.0,0,4,hardware
+My Galaxy Tab S9 has occasional minor slow-downs that are barely noticeable.,0,1,-0.075,0,2,performance
+There is a slight scuff on the corner of my Dell UltraSharp 27 Monitor. Minor cosmetic issue.,0,1,-0.1083,0,0,screen
+The Samsung Galaxy S23 display has dead pixels scattered across the screen.,0,3,-0.2,0,0,screen
+There is a minor creak in the Logitech MX Master 3S Mouse chassis. No functional issue.,0,1,-0.05,0,4,hardware
+Battery on my Dell UltraSharp 27 Monitor depletes in 2 hours despite a full charge.,0,2,0.35,0,1,battery
+My Bose QuietComfort 45 battery life is extremely poor. Dies within 90 minutes.,0,2,-0.4,0,1,battery
+The Apple AirPods Pro 2 is physically destroyed. Could not use it even one day.,1,3,0.0,0,4,hardware
+My Dell UltraSharp 27 Monitor is overheating badly. It burns my hand during use.,0,2,-0.7,0,0,screen
+The Logitech MX Master 3S Mouse speaker produces a constant buzzing sound when playing audio.,0,1,0.2,0,1,battery
+Small cosmetic scratch on the JBL Flip 6 Speaker body. Functionality is perfect.,0,1,0.375,0,0,screen
+The iPad Air display has dead pixels scattered across the screen.,0,3,-0.2,0,0,screen
+My Logitech MX Master 3S Mouse is completely unresponsive. It is dead and will not start.,1,3,-0.05,0,4,hardware
+"The Dell UltraSharp 27 Monitor died completely after 3 days of use. No charging, no response.",1,3,0.1,0,4,hardware
+There is a minor creak in the JBL Flip 6 Speaker chassis. No functional issue.,0,1,-0.05,0,3,connectivity
+Battery on my Corsair K70 RGB Keyboard depletes in 2 hours despite a full charge.,0,2,0.35,0,1,battery
+My Samsung Galaxy S23 overheats frequently. It is warm even when idle.,0,2,0.6,0,2,performance
+Slight audio delay on my Sony WH-1000XM5 Headphones when watching videos. Minor issue.,0,1,-0.1083,0,2,performance
+My Samsung Galaxy Watch 5 went completely dead overnight. Nothing happens when I press power.,1,3,-0.2,0,4,hardware
+Severe damage to my Razer Viper Mini Mouse. The screen is shattered and won't turn on.,1,3,0.0,0,0,screen
+My iPhone 14 arrived and would not boot. Completely dead unit.,1,3,-0.2,0,4,hardware
+There is a slight scuff on the corner of my iPad Air. Minor cosmetic issue.,0,1,-0.1083,0,0,screen
+Slight audio delay on my Anker PowerCore 20000 when watching videos. Minor issue.,0,1,-0.1083,0,2,performance
+Screen is badly cracked on my new iPad Air. No way to operate it.,1,3,-0.2818,0,0,screen
+The JBL Flip 6 Speaker camera is blurry all the time. Every photo is out of focus.,0,2,0.0,0,3,connectivity
+My OnePlus Nord CE 3 arrived and would not boot. Completely dead unit.,1,3,-0.2,0,4,hardware
+The Sony WH-1000XM5 Headphones home button is slightly stiff but still clicks properly.,0,1,-0.1071,0,3,connectivity
+My Bose QuietComfort 45 is continuously restarting. Very difficult to use.,0,2,-0.65,0,3,connectivity
+The Samsung Galaxy S23 display cracked on arrival. The device is totally broken.,1,3,-0.4,0,0,screen
+The Anker PowerCore 20000 randomly restarts during use. Losing unsaved work constantly.,0,2,-0.25,0,4,hardware
+The Bose QuietComfort 45 battery drains very fast. It barely lasts 2 hours.,0,2,0.155,0,1,battery
+Bluetooth disconnects every few minutes on my Samsung Galaxy Watch 5. Unusable for calls.,0,2,-0.2,0,3,connectivity
+The Asus ROG Strix G15 Laptop has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+My Dell Inspiron 15 Laptop keeps losing its Bluetooth connection every few minutes.,0,2,-0.2,0,3,connectivity
+My iPad Air is completely broken. Nothing works and it won't start.,1,3,-0.4,0,4,hardware
+The Logitech MX Master 3S Mouse response time is slightly slower than advertised.,0,1,-0.1667,0,2,performance
+The Asus ROG Strix G15 Laptop has a severe hardware failure. It is entirely non-functional.,1,3,-0.1583,0,4,hardware
+Slight audio delay on my JBL Tune 760NC Headphones when watching videos. Minor issue.,0,1,-0.1083,0,2,performance
+The Dell Inspiron 15 Laptop has a severe hardware failure. It is entirely non-functional.,1,3,-0.1583,0,4,hardware
+The Apple AirPods Pro 2 sometimes has a very minor echo on calls. Barely noticeable.,0,1,-0.0075,0,3,connectivity
+"The Sony WH-1000XM5 Headphones died completely after 3 days of use. No charging, no response.",1,3,0.1,0,4,hardware
+The Samsung Galaxy S23 is completely dead and cannot be repaired. Hardware failure.,1,3,-0.2583,0,4,hardware
+Bought a Corsair K70 RGB Keyboard and it is totally dead. Cannot turn it on at all.,1,3,-0.2,0,4,hardware
+The JBL Tune 760NC Headphones overheats after 20 minutes of use. I have to put it down.,0,2,-0.1556,0,2,performance
+The iPad Air sometimes has a very minor echo on calls. Barely noticeable.,0,1,-0.0075,0,3,connectivity
+The Samsung Galaxy Watch 5 is dead on arrival. Pressing the power button does nothing.,1,3,-0.2,0,4,hardware
+The Sony WH-1000XM5 Headphones disconnects from the network at least 5 times per hour.,0,2,-0.3,0,3,connectivity
+The Samsung Galaxy S23 drops Bluetooth intermittently. I have to reconnect every time.,0,2,0.0,0,3,connectivity
+The Samsung Galaxy Watch 5 fell apart within days. It is unusable now.,1,3,0.0,0,0,screen
+My Samsung Galaxy S23 went completely dead overnight. Nothing happens when I press power.,1,3,-0.2,0,4,hardware
+There is a minor delay when typing on my Corsair K70 RGB Keyboard.,0,1,-0.05,0,2,performance
+The Logitech MX Master 3S Mouse has a slight lag when switching between apps.,0,1,-0.1667,0,2,performance
+"The Galaxy Tab S9 died completely after 3 days of use. No charging, no response.",1,3,0.1,0,4,hardware
+Bought a Samsung Galaxy Watch 5 and it is totally dead. Cannot turn it on at all.,1,3,-0.2,0,4,hardware
+My Asus ROG Strix G15 Laptop keeps losing its Bluetooth connection every few minutes.,0,2,-0.2,0,3,connectivity
+Slight audio delay on my Corsair K70 RGB Keyboard when watching videos. Minor issue.,0,1,-0.1083,0,2,performance
+My Bose QuietComfort 45 has occasional minor slow-downs that are barely noticeable.,0,1,-0.075,0,2,performance
+There is a minor delay when typing on my Samsung Galaxy S23.,0,1,-0.05,0,2,performance
+My Apple AirPods Pro 2 is completely dead. It won't turn on no matter what I try.,1,3,-0.2,0,4,hardware
+Small cosmetic scratch on the Anker PowerCore 20000 body. Functionality is perfect.,0,1,0.375,0,0,screen
+The Galaxy Tab S9 is completely dead and cannot be repaired. Hardware failure.,1,3,-0.2583,0,4,hardware
+"The Asus ROG Strix G15 Laptop won't power on at all. No lights, no response.",1,3,0.0,0,4,hardware
+The OnePlus Nord CE 3 broke within one week of purchase. It won't turn on anymore.,1,3,0.0,0,4,hardware
+The Anker PowerCore 20000 sometimes has a very minor echo on calls. Barely noticeable.,0,1,-0.0075,0,2,performance
+The iPhone 14 sometimes has a very minor echo on calls. Barely noticeable.,0,1,-0.0075,0,3,connectivity
+My Razer Viper Mini Mouse keeps restarting by itself. It does this multiple times daily.,0,2,0.0,0,4,hardware
+The Corsair K70 RGB Keyboard has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+The Dell Inspiron 15 Laptop battery health is very bad. Charging does not hold.,0,2,-0.91,0,1,battery
+Very minor lag on the Samsung Galaxy S23 when opening apps. Otherwise fine.,0,1,0.1758,0,2,performance
+My Asus ROG Strix G15 Laptop hardware failed completely. It no longer turns on or responds.,1,3,-0.275,0,4,hardware
+The iPad Air is dead on arrival. Pressing the power button does nothing.,1,3,-0.2,0,4,hardware
+My Sony WH-1000XM5 Headphones Bluetooth is unstable and disconnects without warning.,0,2,0.0,0,3,connectivity
+WiFi keeps dropping on my Bose QuietComfort 45. Have to reconnect every 15 minutes.,0,2,0.0,0,3,connectivity
+Battery on my Samsung Galaxy Watch 5 depletes in 2 hours despite a full charge.,0,2,0.35,0,1,battery
+The iPhone 14 occasionally shows a brief flicker on startup. Very rare.,0,1,0.13,0,0,screen
+The iPhone 14 casing is cracked and the internal components are exposed.,1,3,0.0,0,0,screen
+My Dell UltraSharp 27 Monitor freezes and then restarts unexpectedly. This is happening daily.,0,2,0.05,0,4,hardware
+The iPad Air has a tiny mark on the screen protector. Nothing major.,0,1,0.0312,0,0,screen
+The Bose QuietComfort 45 casing is cracked and the internal components are exposed.,1,3,0.0,0,0,screen
+Very minor lag on the Dell UltraSharp 27 Monitor when opening apps. Otherwise fine.,0,1,0.1758,0,2,performance
+My Dell UltraSharp 27 Monitor screen cracked after one small drop. Everything is unreadable.,1,3,-0.25,0,0,screen
+The JBL Tune 760NC Headphones camera is blurry all the time. Every photo is out of focus.,0,2,0.0,0,3,connectivity
+Bought a Galaxy Tab S9 and it is totally dead. Cannot turn it on at all.,1,3,-0.2,0,4,hardware
+The Dell Inspiron 15 Laptop battery drains very fast. It barely lasts 2 hours.,0,2,0.155,0,1,battery
+The Logitech MX Master 3S Mouse stopped working entirely. I cannot use it for anything now.,1,3,0.0,0,4,hardware
+My JBL Tune 760NC Headphones keeps losing its Bluetooth connection every few minutes.,0,2,-0.2,0,3,connectivity
+The Apple AirPods Pro 2 keeps disconnecting from WiFi unexpectedly. Very frustrating.,0,2,-0.52,0,3,connectivity
+There is a minor delay when typing on my Dell UltraSharp 27 Monitor.,0,1,-0.05,0,2,performance
+My Samsung Galaxy Watch 5 is completely broken. Nothing works and it won't start.,1,3,-0.4,0,4,hardware
+The Asus ROG Strix G15 Laptop display has dead pixels scattered across the screen.,0,3,-0.2,0,0,screen
+Minor audio imbalance on the Apple AirPods Pro 2. One side is slightly louder.,0,1,-0.1083,0,3,connectivity
+My Corsair K70 RGB Keyboard is continuously restarting. Very difficult to use.,0,2,-0.65,0,4,hardware
+The OnePlus Nord CE 3 overheats and then shuts down automatically. Not acceptable.,0,2,-0.1556,0,4,hardware
+The iPad Air fell apart within days. It is unusable now.,1,3,0.0,0,4,hardware
+My Corsair K70 RGB Keyboard is completely dead. It won't turn on no matter what I try.,1,3,-0.2,0,4,hardware
+My Apple AirPods Pro 2 has a minor blemish on the casing. Very small.,0,1,-0.1875,0,0,screen
+The JBL Tune 760NC Headphones freezes intermittently and then performs a forced reboot.,0,2,-0.3,0,2,performance
+My Samsung Galaxy S23 freezes and then restarts unexpectedly. This is happening daily.,0,2,0.05,0,2,performance
+My iPad Air is overheating badly. It burns my hand during use.,0,2,-0.7,0,4,hardware
+The Dell UltraSharp 27 Monitor disconnects from Bluetooth constantly. Cannot use it properly.,0,2,0.0,0,3,connectivity
+The Anker PowerCore 20000 has a very small scratch on the back. Barely visible.,0,1,-0.0917,0,0,screen
+Minor audio imbalance on the iPad Air. One side is slightly louder.,0,1,-0.1083,0,3,connectivity
+My OnePlus Nord CE 3 keeps restarting by itself. It does this multiple times daily.,0,2,0.0,0,4,hardware
+There is a minor creak in the iPhone 14 chassis. No functional issue.,0,1,-0.05,0,0,screen
+The iPad Air battery drains very fast. It barely lasts 2 hours.,0,2,0.155,0,1,battery
+My Apple AirPods Pro 2 freezes and then restarts unexpectedly. This is happening daily.,0,2,0.05,0,4,hardware
+"The Anker PowerCore 20000 died completely after 3 days of use. No charging, no response.",1,3,0.1,0,4,hardware
+Bought a Galaxy Tab S9 and it is totally dead. Cannot turn it on at all.,1,3,-0.2,0,4,hardware
+The Corsair K70 RGB Keyboard battery drains very fast. It barely lasts 2 hours.,0,2,0.155,0,1,battery
+Very minor lag on the iPad Air when opening apps. Otherwise fine.,0,1,0.1758,0,2,performance
+The Galaxy Tab S9 restarts randomly several times a day.,0,2,0.0,0,4,hardware
+The Asus ROG Strix G15 Laptop restarts randomly several times a day.,0,2,0.0,0,4,hardware
+My Samsung Galaxy S23 screen cracked after one small drop. Everything is unreadable.,1,3,-0.25,0,0,screen
+The JBL Flip 6 Speaker volume button is a tiny bit loose. Everything works normally.,0,1,0.0244,0,3,connectivity
+The Asus ROG Strix G15 Laptop takes a second or two longer to load than expected.,0,1,-0.05,0,2,performance
+My Corsair K70 RGB Keyboard is slightly slow when loading apps. Minor performance issue.,0,1,-0.175,0,2,performance
+My iPhone 14 keeps restarting by itself. It does this multiple times daily.,0,2,0.0,0,3,connectivity
+My JBL Flip 6 Speaker is completely broken. Nothing works and it won't start.,1,3,-0.4,0,4,hardware
+The Apple AirPods Pro 2 takes a second or two longer to load than expected.,0,1,-0.05,0,2,performance
+The Logitech MX Master 3S Mouse has a tiny mark on the screen protector. Nothing major.,0,1,0.0312,0,0,screen
+"The iPad Air box was slightly dented, but the product itself is fine.",0,3,0.125,0,0,screen
+My Dell UltraSharp 27 Monitor hardware failed completely. It no longer turns on or responds.,1,3,-0.275,0,4,hardware
+Minor audio imbalance on the Dell UltraSharp 27 Monitor. One side is slightly louder.,0,1,-0.1083,0,0,screen
+My Razer Viper Mini Mouse camera produces distorted images. Cannot use the camera at all.,0,2,0.0,0,0,screen
+There is a minor delay when typing on my Samsung Galaxy Watch 5.,0,1,-0.05,0,2,performance
+The Razer Viper Mini Mouse screen was cracked when I opened the package.,1,3,0.0,0,0,screen
+My Apple AirPods Pro 2 is completely unresponsive. It is dead and will not start.,1,3,-0.05,0,4,hardware
+The Sony WH-1000XM5 Headphones has a severe hardware failure. It is entirely non-functional.,1,3,-0.1583,0,4,hardware
+"The OnePlus Nord CE 3 stopped working after 2 days. Completely dead, not charging.",1,3,-0.2,0,4,hardware
+My Razer Viper Mini Mouse is slightly slow when loading apps. Minor performance issue.,0,1,-0.175,0,2,performance
+The JBL Flip 6 Speaker overheats after 20 minutes of use. I have to put it down.,0,2,-0.1556,0,3,connectivity
+The Anker PowerCore 20000 volume button is a tiny bit loose. Everything works normally.,0,1,0.0244,0,4,hardware
+The Sony WH-1000XM5 Headphones runs very hot all the time. Overheating is a serious problem.,0,2,-0.0042,0,4,hardware
+Severe damage to my Apple AirPods Pro 2. The screen is shattered and won't turn on.,1,3,0.0,0,0,screen
+The Dell Inspiron 15 Laptop charging port is slightly tight. Charges fine once connected.,0,1,0.119,0,1,battery
+My Asus ROG Strix G15 Laptop screen cracked after one small drop. Everything is unreadable.,1,3,-0.25,0,0,screen
+Minor audio imbalance on the Bose QuietComfort 45. One side is slightly louder.,0,1,-0.1083,0,3,connectivity
+The Corsair K70 RGB Keyboard restarts randomly several times a day.,0,2,0.0,0,4,hardware
+The JBL Tune 760NC Headphones camera is blurry all the time. Every photo is out of focus.,0,2,0.0,0,3,connectivity
+My Galaxy Tab S9 keeps losing its Bluetooth connection every few minutes.,0,2,-0.2,0,3,connectivity
+The JBL Flip 6 Speaker screen was cracked when I opened the package.,1,3,0.0,0,0,screen
+The iPhone 14 disconnects from the network at least 5 times per hour.,0,2,-0.3,0,3,connectivity
+The JBL Tune 760NC Headphones charging port is slightly tight. Charges fine once connected.,0,2,0.119,0,1,battery
+WiFi keeps dropping on my Asus ROG Strix G15 Laptop. Have to reconnect every 15 minutes.,0,2,0.0,0,3,connectivity
+The Dell Inspiron 15 Laptop has a tiny mark on the screen protector. Nothing major.,0,1,0.0312,0,0,screen
+The JBL Flip 6 Speaker restarts randomly several times a day.,0,2,0.0,0,3,connectivity
+"The Samsung Galaxy Watch 5 stopped working after 2 days. Completely dead, not charging.",1,3,-0.2,0,4,hardware
+The Bose QuietComfort 45 charges very slowly and drains battery very quickly.,0,2,0.0217,0,1,battery

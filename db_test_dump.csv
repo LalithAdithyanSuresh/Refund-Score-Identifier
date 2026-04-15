@@ -1,0 +1,21 @@
+complaint_id,customer_id,order_id,complaint_date,purchase_date,product_name,complaint_text
+1,19,19,2026-04-16,2026-04-05,iPhone 14,Got the Apple iPhone 14 and the screen was cracked when I opened the package.
+2,16,177,2026-04-01,2026-03-29,Tune 760NC Headphones,My JBL Tune 760NC Headphones is completely broken. It fell once and now the screen is cracked beyond repair.
+3,30,40,2026-04-09,2026-04-04,AirPods Pro 2,Got the Apple AirPods Pro 2 and the screen was cracked when I opened the package.
+4,18,23,2026-03-26,2026-03-24,iPhone 14,"The Apple iPhone 14 stopped working after 2 days. Completely dead, not charging."
+5,35,146,2026-04-11,2026-04-01,MX Master 3S Mouse,My MX Master 3S Mouse broke within one week of purchase. It won't turn on anymore.
+6,29,157,2026-03-31,2026-03-27,MX Master 3S Mouse,Got the Logitech MX Master 3S Mouse and the screen was cracked when I opened the package.
+7,2,205,2026-04-13,2026-04-06,ROG Strix G15 Laptop,"My ROG Strix G15 Laptop is completely dead. No lights, no response, nothing works."
+8,28,119,2026-04-17,2026-04-12,PowerCore 20000,The Anker PowerCore 20000 arrived broken. The power button does not respond at all.
+9,34,234,2026-04-08,2026-04-01,MX Master 3S Mouse,Got the Logitech MX Master 3S Mouse and the screen was cracked when I opened the package.
+10,27,82,2026-04-07,2026-03-28,Nord CE 3,Got the OnePlus Nord CE 3 and the screen was cracked when I opened the package.
+11,6,16,2026-04-15,2026-04-03,PowerCore 20000,Got the Anker PowerCore 20000 and the screen was cracked when I opened the package.
+12,18,29,2026-04-17,2026-04-06,iPhone 14,"The Apple iPhone 14 stopped working after 2 days. Completely dead, not charging."
+13,29,60,2026-04-16,2026-04-05,WH-1000XM5 Headphones,"Received the WH-1000XM5 Headphones and it is not working at all. Tried everything, the device is dead."
+14,11,24,2026-04-09,2026-04-05,PowerCore 20000,My Black PowerCore 20000 has a cracked display. Totally unusable now.
+15,24,51,2026-04-07,2026-04-05,Galaxy Watch 5,"My Galaxy Watch 5 is completely dead. No lights, no response, nothing works."
+16,13,47,2026-04-08,2026-04-01,MacBook Air M2,My Apple MacBook Air M2 is completely broken. It fell once and now the screen is cracked beyond repair.
+17,16,127,2026-04-15,2026-04-07,Galaxy Tab S9,Got the Samsung Galaxy Tab S9 and the screen was cracked when I opened the package.
+18,25,85,2026-04-02,2026-03-29,Tune 760NC Headphones,My JBL Tune 760NC Headphones is completely broken. It fell once and now the screen is cracked beyond repair.
+19,11,84,2026-04-24,2026-04-12,K70 RGB Keyboard,"Received the K70 RGB Keyboard and it is not working at all. Tried everything, the device is dead."
+20,25,131,2026-04-08,2026-03-28,Galaxy S23,The Galaxy S23 I received is dead on arrival. It does not power up no matter what I try.

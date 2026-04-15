@@ -1,0 +1,276 @@
+﻿Total: 225, VALID: 164 (72.9%), REJECT: 61 (27.1%)
+
+REJECTION BREAKDOWN:
+  Change of Mind           : 27
+  Outside Window           : 12
+  Vague                    : 9
+  Color Mismatch           : 8
+  Brand Mismatch           : 5
+
+================================================================================
+ALL REJECTED COMPLAINTS:
+================================================================================
+
+  ID=161 [Change of Mind]
+  Text: I dont like the Black color of the Nitro 5 Laptop. Want to exchange for a different color.
+  Reason: Change of mind detected (similarity=0.650, matched: 'want a different color or model')
+
+  ID=162 [Change of Mind]
+  Text: Want to return the Bose QuietComfort 45. I prefer a different model that my friend recommended.
+  Reason: Change of mind detected (keyword: 'prefer a different')
+
+  ID=163 [Change of Mind]
+  Text: I dont like the Graphite color of the Galaxy Tab S9. Want to exchange for a different color.
+  Reason: Change of mind detected (similarity=0.591, matched: 'dont like the color want to exchange')
+
+  ID=164 [Change of Mind]
+  Text: I dont like the Red color of the Flip 6 Speaker. Want to exchange for a different color.
+  Reason: Change of mind detected (similarity=0.639, matched: 'dont like the color want to exchange')
+
+  ID=165 [Change of Mind]
+  Text: I dont like the Black color of the Viper Mini Mouse. Want to exchange for a different color.
+  Reason: Change of mind detected (similarity=0.680, matched: 'dont like the color want to exchange')
+
+  ID=166 [Change of Mind]
+  Text: I dont like the Red color of the Flip 6 Speaker. Want to exchange for a different color.
+  Reason: Change of mind detected (similarity=0.639, matched: 'dont like the color want to exchange')
+
+  ID=167 [Change of Mind]
+  Text: I want to return the Logitech MX Master 3S Mouse. I changed my mind, I prefer a different brand.
+  Reason: Change of mind detected (keyword: 'changed my mind')
+
+  ID=168 [Change of Mind]
+  Text: I want to return the Apple iPhone 14. I changed my mind, I prefer a different brand.
+  Reason: Change of mind detected (keyword: 'changed my mind')
+
+  ID=169 [Change of Mind]
+  Text: Want to return the Samsung Galaxy Tab S9. I prefer a different model that my friend recommended.
+  Reason: Change of mind detected (keyword: 'prefer a different')
+
+  ID=170 [Change of Mind]
+  Text: I want to return the Dell UltraSharp 27 Monitor. I changed my mind, I prefer a different brand.
+  Reason: Change of mind detected (keyword: 'changed my mind')
+
+  ID=171 [Change of Mind]
+  Text: Changed my mind about the JBL Flip 6 Speaker. I prefer another model instead.
+  Reason: Change of mind detected (keyword: 'changed my mind')
+
+  ID=172 [Change of Mind]
+  Text: I want to return the Dell Inspiron 15 Laptop. I changed my mind, I prefer a different brand.
+  Reason: Change of mind detected (keyword: 'changed my mind')
+
+  ID=173 [Change of Mind]
+  Text: I dont like the Black color of the UltraSharp 27 Monitor. Want to exchange for a different color.
+  Reason: Change of mind detected (similarity=0.574, matched: 'dont like the color want to exchange')
+
+  ID=174 [Change of Mind]
+  Text: The Inspiron 15 Laptop is fine but I just dont like it. Prefer something else.
+  Reason: Change of mind detected (keyword: 'dont like')
+
+  ID=175 [Change of Mind]
+  Text: Changed my mind about the Dell Inspiron 15 Laptop. I prefer another model instead.
+  Reason: Change of mind detected (keyword: 'changed my mind')
+
+  ID=176 [Change of Mind]
+  Text: I want to return the Logitech MX Master 3S Mouse. I changed my mind, I prefer a different brand.
+  Reason: Change of mind detected (keyword: 'changed my mind')
+
+  ID=177 [Change of Mind]
+  Text: I dont need the iPad Air anymore. I decided to go with a different product entirely.
+  Reason: Change of mind detected (keyword: 'dont need')
+
+  ID=178 [Change of Mind]
+  Text: I want to return the Anker PowerCore 20000. I changed my mind, I prefer a different brand.
+  Reason: Change of mind detected (keyword: 'changed my mind')
+
+  ID=179 [Change of Mind]
+  Text: I dont need the K70 RGB Keyboard anymore. I decided to go with a different product entirely.
+  Reason: Change of mind detected (keyword: 'dont need')
+
+  ID=180 [Change of Mind]
+  Text: Changed my mind about the Razer Viper Mini Mouse. I prefer another model instead.
+  Reason: Change of mind detected (keyword: 'changed my mind')
+
+  ID=181 [Change of Mind]
+  Text: I want to return the Samsung Galaxy Tab S9. I changed my mind, I prefer a different brand.
+  Reason: Change of mind detected (keyword: 'changed my mind')
+
+  ID=182 [Change of Mind]
+  Text: Want to return the Asus ROG Strix G15 Laptop. I prefer a different model that my friend recommended.
+  Reason: Change of mind detected (keyword: 'prefer a different')
+
+  ID=183 [Change of Mind]
+  Text: Want to return the JBL Flip 6 Speaker. I prefer a different model that my friend recommended.
+  Reason: Change of mind detected (keyword: 'prefer a different')
+
+  ID=184 [Change of Mind]
+  Text: I dont need the Galaxy Tab S9 anymore. I decided to go with a different product entirely.
+  Reason: Change of mind detected (keyword: 'dont need')
+
+  ID=185 [Change of Mind]
+  Text: Changed my mind about the Dell UltraSharp 27 Monitor. I prefer another model instead.
+  Reason: Change of mind detected (keyword: 'changed my mind')
+
+  ID=186 [Vague]
+  Text: Not good. Want refund for the ROG Strix G15 Laptop.
+  Reason: Vague complaint detected (score=0.588, matched: 'terrible just give refund')
+
+  ID=190 [Vague]
+  Text: The Dell UltraSharp 27 Monitor is terrible. Just give me a refund.
+  Reason: Vague complaint detected (score=0.471, matched: 'terrible just give refund')
+
+  ID=191 [Vague]
+  Text: The Dell UltraSharp 27 Monitor is terrible. Just give me a refund.
+  Reason: Vague complaint detected (score=0.471, matched: 'terrible just give refund')
+
+  ID=192 [Vague]
+  Text: The Asus ROG Strix G15 Laptop is terrible. Just give me a refund.
+  Reason: Vague complaint detected (score=0.532, matched: 'terrible just give refund')
+
+  ID=193 [Vague]
+  Text: Worst purchase ever. I want my money back.
+  Reason: Vague complaint detected (score=0.636, matched: 'unhappy with this purchase refund needed')
+
+  ID=194 [Vague]
+  Text: I need a refund for this product now.
+  Reason: Vague complaint detected (score=0.934, matched: 'need a refund for this product')
+
+  ID=195 [Vague]
+  Text: Not satisfied with the WH-1000XM5 Headphones. Refund please.
+  Reason: Vague complaint detected (score=0.516, matched: 'unhappy with this purchase refund needed')
+
+  ID=196 [Change of Mind]
+  Text: Bad product. Need refund.
+  Reason: Change of mind detected (similarity=0.515, matched: 'i dont like this product anymore')
+
+  ID=197 [Change of Mind]
+  Text: Bad product. Need refund.
+  Reason: Change of mind detected (similarity=0.515, matched: 'i dont like this product anymore')
+
+  ID=198 [Vague]
+  Text: I need a refund for this product now.
+  Reason: Vague complaint detected (score=0.934, matched: 'need a refund for this product')
+
+  ID=200 [Vague]
+  Text: Not good. Want refund for the K70 RGB Keyboard.
+  Reason: Vague complaint detected (score=0.483, matched: 'terrible just give refund')
+
+  ID=201 [Color Mismatch]
+  Text: Wrong color! I specifically ordered the Silver Apple AirPods Pro 2 but got White.
+  Reason: Color mismatch: complaint claims 'Silver' but ordered product color is 'White'
+
+  ID=202 [Color Mismatch]
+  Text: I wanted the Green version of the Galaxy Tab S9. Why did I receive Graphite?
+  Reason: Color mismatch: complaint claims 'Green' but ordered product color is 'Graphite'
+
+  ID=203 [Color Mismatch]
+  Text: Wrong color! I specifically ordered the Black Apple iPad Air but got Pink.
+  Reason: Color mismatch: complaint claims 'Black' but ordered product color is 'Pink'
+
+  ID=204 [Color Mismatch]
+  Text: I ordered a Pink Galaxy Tab S9 but received a Graphite one instead. This is not what I ordered!
+  Reason: Color mismatch: complaint claims 'Pink' but ordered product color is 'Graphite'
+
+  ID=205 [Color Mismatch]
+  Text: I ordered a Pink Viper Mini Mouse but received a Black one instead. This is not what I ordered!
+  Reason: Color mismatch: complaint claims 'Pink' but ordered product color is 'Black'
+
+  ID=206 [Color Mismatch]
+  Text: I ordered a Black Flip 6 Speaker but received a Red one instead. This is not what I ordered!
+  Reason: Color mismatch: complaint claims 'Black' but ordered product color is 'Red'
+
+  ID=207 [Color Mismatch]
+  Text: Wrong color! I specifically ordered the Space Gray Bose QuietComfort 45 but got White.
+  Reason: Color mismatch: complaint claims 'Space Gray' but ordered product color is 'White'
+
+  ID=208 [Color Mismatch]
+  Text: I wanted the Silver version of the iPhone 14. Why did I receive Blue?
+  Reason: Color mismatch: complaint claims 'Silver' but ordered product color is 'Blue'
+
+  ID=209 [Brand Mismatch]
+  Text: I ordered a Corsair product but received a Sony WH-1000XM5 Headphones instead!
+  Reason: Brand mismatch: complaint mentions 'Corsair' but ordered product brand is 'Sony'
+
+  ID=210 [Brand Mismatch]
+  Text: This is wrong! I ordered Sony but got Anker PowerCore 20000. Please fix this.
+  Reason: Brand mismatch: complaint mentions 'Sony' but ordered product brand is 'Anker'
+
+  ID=211 [Brand Mismatch]
+  Text: I ordered a JBL product but received a Apple iPad Air instead!
+  Reason: Brand mismatch: complaint mentions 'JBL' but ordered product brand is 'Apple'
+
+  ID=212 [Brand Mismatch]
+  Text: This is wrong! I ordered Samsung but got Logitech MX Master 3S Mouse. Please fix this.
+  Reason: Brand mismatch: complaint mentions 'Samsung' but ordered product brand is 'Logitech'
+
+  ID=213 [Brand Mismatch]
+  Text: I ordered a Sony product but received a Samsung Galaxy Watch 5 instead!
+  Reason: Brand mismatch: complaint mentions 'Sony' but ordered product brand is 'Samsung'
+
+  ID=214 [Outside Window]
+  Text: My Nord CE 3 broke within one week of purchase. It won't turn on anymore.
+  Reason: Outside refund window: 24 days since purchase (allowed: 15 days)
+
+  ID=215 [Outside Window]
+  Text: My Anker PowerCore 20000 disconnects from bluetooth constantly. Cannot use it properly.
+  Reason: Outside refund window: 38 days since purchase (allowed: 30 days)
+
+  ID=216 [Outside Window]
+  Text: The iPad Air is overheating badly during normal use. It gets too hot to hold.
+  Reason: Outside refund window: 22 days since purchase (allowed: 15 days)
+
+  ID=217 [Outside Window]
+  Text: WiFi keeps dropping on my Dell Inspiron 15 Laptop. Have to reconnect every 15 minutes.
+  Reason: Outside refund window: 42 days since purchase (allowed: 30 days)
+
+  ID=218 [Outside Window]
+  Text: The K70 RGB Keyboard I received is dead on arrival. It does not power up no matter what I try.
+  Reason: Outside refund window: 35 days since purchase (allowed: 30 days)
+
+  ID=219 [Outside Window]
+  Text: The Galaxy Watch 5 overheats and then shuts down automatically. This is not acceptable.
+  Reason: Outside refund window: 18 days since purchase (allowed: 15 days)
+
+  ID=220 [Outside Window]
+  Text: My White QuietComfort 45 has a cracked display. Totally unusable now.
+  Reason: Outside refund window: 37 days since purchase (allowed: 30 days)
+
+  ID=221 [Outside Window]
+  Text: The Viper Mini Mouse is lagging terribly. Apps take forever to load and it freezes often.
+  Reason: Outside refund window: 40 days since purchase (allowed: 30 days)
+
+  ID=222 [Outside Window]
+  Text: My Samsung Galaxy Tab S9 disconnects from bluetooth constantly. Cannot use it properly.
+  Reason: Outside refund window: 24 days since purchase (allowed: 15 days)
+
+  ID=223 [Outside Window]
+  Text: My Nord CE 3 broke within one week of purchase. It won't turn on anymore.
+  Reason: Outside refund window: 30 days since purchase (allowed: 15 days)
+
+  ID=224 [Outside Window]
+  Text: The OnePlus Nord CE 3 stopped working after 2 days. Completely dead, not charging.
+  Reason: Outside refund window: 23 days since purchase (allowed: 15 days)
+
+  ID=225 [Outside Window]
+  Text: The JBL Tune 760NC Headphones stopped working after 2 days. Completely dead, not charging.
+  Reason: Outside refund window: 27 days since purchase (allowed: 20 days)
+
+================================================================================
+CHECKING CHANGE-OF-MIND THAT MIGHT BE FALSE VALID:
+================================================================================
+
+================================================================================
+CHECKING VAGUE TEXTS THAT MIGHT BE FALSE VALID:
+================================================================================
+
+  ID=187: Very unhappy with this purchase. Refund needed.
+  Decision: VALID
+
+  ID=188: Very unhappy with this purchase. Refund needed.
+  Decision: VALID
+
+  ID=189: Very unhappy with this purchase. Refund needed.
+  Decision: VALID
+
+  ID=199: Very unhappy with this purchase. Refund needed.
+  Decision: VALID

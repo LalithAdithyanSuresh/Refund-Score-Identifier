@@ -1,0 +1,6 @@
+sentence-transformers
+torch
+pandas
+numpy
+scikit-learn
+nbformat

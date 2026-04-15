@@ -1,0 +1,45 @@
+﻿=======================================================
+   REFUND CLASSIFIER ù TRAINING
+=======================================================
+System.Management.Automation.RemoteException
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]
+Loading weights: 100%|##########| 103/103 [00:00<00:00, 1947.95it/s]
+[1mBertModel LOAD REPORT[0m from: sentence-transformers/all-MiniLM-L6-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+System.Management.Automation.RemoteException
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Sentence-BERT cache warmed (20 entries).
+Loaded 450 training samples from 'training_data.csv'.
+  APPROVE (1): 150
+  REJECT  (0): 300
+
+Extracting features for 450 samples...
+  50/450 processed...
+  100/450 processed...
+  150/450 processed...
+  200/450 processed...
+  250/450 processed...
+  300/450 processed...
+  350/450 processed...
+  400/450 processed...
+  450/450 processed...
+
+Feature matrix shape: (450, 388)
+  Train size: 360, Test size: 90
+
+Using classifier: XGBoost
+Traceback (most recent call last):
+  File "C:\Users\harin\.gemini\antigravity\scratch\RefundSystemV2\train_classifier.py", line 195, in <module>
+    main()
+  File "C:\Users\harin\.gemini\antigravity\scratch\RefundSystemV2\train_classifier.py", line 182, in main
+    clf, metrics = train_model(X, y)
+                   ^^^^^^^^^^^^^^^^^
+  File "C:\Users\harin\.gemini\antigravity\scratch\RefundSystemV2\train_classifier.py", line 128, in train_model
+    print("\n" + "\u2550" * 55)
+  File "C:\Program Files\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 2-56: character maps to <undefined>

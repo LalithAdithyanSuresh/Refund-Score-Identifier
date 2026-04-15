@@ -1,0 +1,91 @@
+complaint_text,actual,predicted,status
+My Apple AirPods Pro 2 is completely dead. It won't turn on no matter what I try.,1,1,CORRECT
+The Anker PowerCore 20000 volume button is a tiny bit loose. Everything works normally.,0,0,CORRECT
+The Bose QuietComfort 45 charges very slowly and drains battery very quickly.,0,0,CORRECT
+The Samsung Galaxy S23 is completely dead and cannot be repaired. Hardware failure.,1,1,CORRECT
+My iPad Air touch screen has a very slight delay in one small area.,0,0,CORRECT
+The Razer Viper Mini Mouse casing is cracked and the internal components are exposed.,1,0,INCORRECT
+"The Bose QuietComfort 45 won't power on at all. No lights, no response.",1,1,CORRECT
+The Galaxy Tab S9 volume button is a tiny bit loose. Everything works normally.,0,0,CORRECT
+The Dell UltraSharp 27 Monitor sometimes has a very minor echo on calls. Barely noticeable.,0,0,CORRECT
+The Logitech MX Master 3S Mouse camera is blurry all the time. Every photo is out of focus.,0,0,CORRECT
+My Apple AirPods Pro 2 freezes and then restarts unexpectedly. This is happening daily.,0,0,CORRECT
+There is a minor delay when typing on my Dell Inspiron 15 Laptop.,0,0,CORRECT
+There is a minor delay when typing on my Dell UltraSharp 27 Monitor.,0,0,CORRECT
+Severe damage to my Logitech MX Master 3S Mouse. The screen is shattered and won't turn on.,1,1,CORRECT
+"The OnePlus Nord CE 3 stopped working after 2 days. Completely dead, not charging.",1,1,CORRECT
+The Samsung Galaxy S23 arrived with a broken screen. Cannot power it on.,1,1,CORRECT
+My Bose QuietComfort 45 has occasional minor slow-downs that are barely noticeable.,0,0,CORRECT
+The JBL Tune 760NC Headphones camera is blurry all the time. Every photo is out of focus.,0,0,CORRECT
+The Dell Inspiron 15 Laptop battery drains very fast. It barely lasts 2 hours.,0,0,CORRECT
+The JBL Tune 760NC Headphones speaker produces a constant buzzing sound when playing audio.,0,0,CORRECT
+The iPhone 14 takes a second or two longer to load than expected.,0,0,CORRECT
+The Asus ROG Strix G15 Laptop battery drains very fast. It barely lasts 2 hours.,0,0,CORRECT
+Slight audio delay on my Galaxy Tab S9 when watching videos. Minor issue.,0,0,CORRECT
+Very minor lag on the Samsung Galaxy S23 when opening apps. Otherwise fine.,0,0,CORRECT
+Very minor lag on the Bose QuietComfort 45 when opening apps. Otherwise fine.,0,0,CORRECT
+"The Apple AirPods Pro 2 won't power on at all. No lights, no response.",1,1,CORRECT
+The Asus ROG Strix G15 Laptop takes a second or two longer to load than expected.,0,0,CORRECT
+There is a slight scuff on the corner of my Razer Viper Mini Mouse. Minor cosmetic issue.,0,0,CORRECT
+My Samsung Galaxy S23 is completely dead. It won't turn on no matter what I try.,1,1,CORRECT
+The Logitech MX Master 3S Mouse stopped working entirely. I cannot use it for anything now.,1,1,CORRECT
+My iPhone 14 overheats frequently. It is warm even when idle.,0,0,CORRECT
+Bought a Apple AirPods Pro 2 and it is totally dead. Cannot turn it on at all.,1,1,CORRECT
+There is a minor delay when typing on my JBL Tune 760NC Headphones.,0,1,INCORRECT
+"The Samsung Galaxy Watch 5 stopped working after 2 days. Completely dead, not charging.",1,0,INCORRECT
+The iPhone 14 keeps disconnecting from WiFi unexpectedly. Very frustrating.,0,0,CORRECT
+My Galaxy Tab S9 is continuously restarting. Very difficult to use.,0,0,CORRECT
+The Bose QuietComfort 45 occasionally shows a brief flicker on startup. Very rare.,0,0,CORRECT
+The Dell Inspiron 15 Laptop restarts randomly several times a day.,0,0,CORRECT
+The Dell UltraSharp 27 Monitor battery health is very bad. Charging does not hold.,0,0,CORRECT
+The Samsung Galaxy S23 occasionally shows a brief flicker on startup. Very rare.,0,0,CORRECT
+My Apple AirPods Pro 2 Bluetooth is unstable and disconnects without warning.,0,0,CORRECT
+My iPhone 14 is overheating badly. It burns my hand during use.,0,0,CORRECT
+The Logitech MX Master 3S Mouse is completely dead and cannot be repaired. Hardware failure.,1,1,CORRECT
+Screen is badly cracked on my new OnePlus Nord CE 3. No way to operate it.,1,1,CORRECT
+My Dell Inspiron 15 Laptop is completely unresponsive. It is dead and will not start.,1,1,CORRECT
+There is a slight scuff on the corner of my Dell UltraSharp 27 Monitor. Minor cosmetic issue.,0,0,CORRECT
+WiFi keeps dropping on my Logitech MX Master 3S Mouse. Have to reconnect every 15 minutes.,0,0,CORRECT
+My JBL Tune 760NC Headphones is completely unresponsive. It is dead and will not start.,1,1,CORRECT
+The Corsair K70 RGB Keyboard has a very small scratch on the back. Barely visible.,0,0,CORRECT
+Slight audio delay on my Bose QuietComfort 45 when watching videos. Minor issue.,0,0,CORRECT
+The Dell Inspiron 15 Laptop screen was cracked when I opened the package.,1,0,INCORRECT
+My JBL Tune 760NC Headphones overheats frequently. It is warm even when idle.,0,0,CORRECT
+My iPad Air spontaneously stopped working. Nothing turns on.,1,0,INCORRECT
+The Logitech MX Master 3S Mouse broke within one week of purchase. It won't turn on anymore.,1,1,CORRECT
+There is a minor creak in the Dell Inspiron 15 Laptop chassis. No functional issue.,0,0,CORRECT
+There is a slight scuff on the corner of my iPad Air. Minor cosmetic issue.,0,0,CORRECT
+The JBL Flip 6 Speaker restarts randomly several times a day.,0,0,CORRECT
+The OnePlus Nord CE 3 screen was cracked when I opened the package.,1,1,CORRECT
+The Bose QuietComfort 45 battery drains very fast. It barely lasts 2 hours.,0,0,CORRECT
+The OnePlus Nord CE 3 stopped working entirely. I cannot use it for anything now.,1,1,CORRECT
+My Bose QuietComfort 45 Bluetooth is unstable and disconnects without warning.,0,0,CORRECT
+My Corsair K70 RGB Keyboard is completely dead. It won't turn on no matter what I try.,1,1,CORRECT
+My OnePlus Nord CE 3 has occasional minor slow-downs that are barely noticeable.,0,0,CORRECT
+My JBL Flip 6 Speaker spontaneously stopped working. Nothing turns on.,1,0,INCORRECT
+The Samsung Galaxy S23 restarts randomly several times a day.,0,0,CORRECT
+"The Sony WH-1000XM5 Headphones died completely after 3 days of use. No charging, no response.",1,1,CORRECT
+My Asus ROG Strix G15 Laptop keeps losing its Bluetooth connection every few minutes.,0,0,CORRECT
+The OnePlus Nord CE 3 drops Bluetooth intermittently. I have to reconnect every time.,0,1,INCORRECT
+"The Dell UltraSharp 27 Monitor box was slightly dented, but the product itself is fine.",0,0,CORRECT
+The iPhone 14 disconnects from the network at least 5 times per hour.,0,0,CORRECT
+There is a minor creak in the Dell Inspiron 15 Laptop chassis. No functional issue.,0,0,CORRECT
+The Razer Viper Mini Mouse has a very small scratch on the back. Barely visible.,0,0,CORRECT
+The Dell Inspiron 15 Laptop battery health is very bad. Charging does not hold.,0,0,CORRECT
+Minor audio imbalance on the Apple AirPods Pro 2. One side is slightly louder.,0,0,CORRECT
+There is a loud buzzing noise from my Dell UltraSharp 27 Monitor at all times.,0,0,CORRECT
+My OnePlus Nord CE 3 arrived and would not boot. Completely dead unit.,1,1,CORRECT
+The Galaxy Tab S9 restarts randomly several times a day.,0,0,CORRECT
+My Razer Viper Mini Mouse is completely dead. It won't turn on no matter what I try.,1,1,CORRECT
+My Sony WH-1000XM5 Headphones screen cracked after one small drop. Everything is unreadable.,1,1,CORRECT
+The Apple AirPods Pro 2 reboots on its own without warning at least twice a day.,0,0,CORRECT
+"The JBL Flip 6 Speaker died completely after 3 days of use. No charging, no response.",1,1,CORRECT
+The iPhone 14 camera is blurry all the time. Every photo is out of focus.,0,0,CORRECT
+Bought a Samsung Galaxy S23 and it is totally dead. Cannot turn it on at all.,1,1,CORRECT
+The Sony WH-1000XM5 Headphones home button is slightly stiff but still clicks properly.,0,0,CORRECT
+The Asus ROG Strix G15 Laptop home button is slightly stiff but still clicks properly.,0,0,CORRECT
+My Bose QuietComfort 45 battery life is extremely poor. Dies within 90 minutes.,0,0,CORRECT
+The Sony WH-1000XM5 Headphones charges very slowly and drains battery very quickly.,0,0,CORRECT
+The Dell UltraSharp 27 Monitor has catastrophic damage. Nothing works at all.,1,0,INCORRECT
+The Anker PowerCore 20000 charges very slowly and drains battery very quickly.,0,0,CORRECT
+My Corsair K70 RGB Keyboard freezes and then restarts unexpectedly. This is happening daily.,0,0,CORRECT
