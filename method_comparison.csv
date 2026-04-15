@@ -1,0 +1,501 @@
+complaint_id,complaint_text,Ground_Truth,POS_Predicted,POS_Correct,DP_Predicted,DP_Correct,Agreement
+CMP-001,My Sony headphones stopped working completely within 2 days need refund,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-195,earbuds not working properly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-196,earbuds ok but meh,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-219,feels cheap compared to pictures,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-319,this isnt what i saw online,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-002,Laptop screen is completely black not turning on at all,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-111,phone dead after update,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-112,i dont like this color anymore,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-210,this is not exactly what i thought it would be,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-310,not satisfied overall,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-409,this is not same as shown online,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-461,device not connecting wifi properly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-003,Battery exploded while charging this is dangerous 😡,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-145,mouse not detected at all,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-146,mouse slightly slow nothing major,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-201,phone randomly shuts down even when battery is full,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-301,device restarting frequently,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-435,sound distortion while playing music,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-487,box had marks inside,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-004,Phone is dead on arrival not powering on,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-292,screen brightness fluctuating randomly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-392,screen brightness issue,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-401,phone not turning on after charging overnight,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-444,mouse pointer lagging randomly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-005,Earbuds only work on one side defective unit,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-101,phone stopped working after 3 days need help,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-102,screen flickering sometimes but usable,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-283,screen has faint horizontal lines,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-383,screen showing lines,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-453,screen showing horizontal lines,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-006,Tablet display cracked inside the box itself,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-179,network not working,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-180,device ok but refund needed,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-274,mouse not working on certain surfaces,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-374,mouse not responding properly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-496,ok,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-007,Monitor showing only blank screen,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-265,audio cuts during calls randomly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-365,audio cuts randomly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-418,expected better quality honestly,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-470,works fine but refund pls,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-008,Keyboard keys not responding at all,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-129,tablet screen frozen completely,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-130,wrong product again 😡 unacceptable,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-256,not good,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-356,why is this not same black 😡,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-009,Mouse completely stopped working after 1 day,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-247,box looked new but device has scratches,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-347,it works but i dont like it,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-010,Charger burnt smell and not working,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-163,device overheating while charging,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-164,wrong item delivered again 😡,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-238,doesnt feel right idk,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-338,used item returning now,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-011,Laptop keeps restarting randomly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-197,monitor blank screen,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-198,monitor slightly dim,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-229,this doesnt match description properly,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-329,meh its okay,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-427,box had fingerprints on device,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-479,meh refund pls,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-012,Phone overheating while charging,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-103,laptop not booting at all,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-104,i ordered blue but got black again 😡,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-220,not worth the price imo,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-320,device is fine but want refund anyway,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-013,Earbuds disconnect frequently,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-211,laptop fan very loud suddenly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-311,device not connecting to wifi sometimes,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-014,Tablet hangs sometimes while using,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-113,keyboard keys falling off,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-114,box had older keyboard model,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-202,i think battery is bad drains too fast,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-302,screen ghost touch happening randomly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-436,ok,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-488,used already returning now,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-015,Monitor flickers occasionally,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-147,tablet not charging properly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-148,tablet ok but dont like it,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-293,keyboard lagging when typing fast,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-393,keyboard lagging,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-410,product works but i dont want it anymore,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-462,screen flickering issue persists,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-016,Keyboard has input lag,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-284,device heating near battery area,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-384,device heating issue,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-445,charger heating too much,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-017,Mouse cursor jumping randomly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-275,charger overheating after few minutes,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-375,charger overheating issue,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-402,screen flickering randomly while using apps,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-454,device heating near battery,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-018,Charger gets too hot sometimes,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-181,phone not charging at all,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-182,box had broken phone inside,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-266,not really what i thought tbh,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-366,not what i expected,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-497,idk feels weird,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-019,Smartwatch battery drains fast,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-131,device restarting automatically again and again,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-132,i expected better quality,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-257,feels off somehow cant explain,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-357,box had marks on item,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-419,feels cheap compared to price,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-471,device rebooting randomly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-020,Phone speaker volume is very low,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-105,mouse stopped working suddenly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-106,used it for 2 days returning now,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-248,used for few hrs now returning,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-348,looks different irl,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-021,Laptop is a bit slow nothing major though,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-199,device not connecting wifi,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-200,not satisfied with product,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-239,i guess its fine but still refund pls,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-339,this product not same as shown,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-022,Phone camera quality is average expected better,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-165,mouse buttons not working,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-166,i dont like this anymore,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-230,product is fine but i want different one,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-330,not impressed honestly,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-428,used it for few hours now returning,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-480,idk feels off,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-023,Mouse feels slightly laggy,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-221,device completely dead after charging overnight,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-321,device stuck at logo screen,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-024,Keyboard keys are hard to press but usable,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-212,keyboard typing double letters sometimes,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-312,screen flickering under low brightness,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-025,Monitor brightness is low,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-203,screen has small flicker sometimes not sure why,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-303,battery percentage drops suddenly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-437,idk feels weird to use,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-489,not same as description,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-026,Tablet touch is slightly delayed,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-294,mouse double clicking issue,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-394,mouse double click issue,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-027,Earbuds sound is okay but not great,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-115,earbuds not connecting properly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-116,earbuds sound not great honestly,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-149,charger loose connection issue,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-150,chargr burn smel 😡,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-285,audio very low even at max volume,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-385,audio very low,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-411,tablet not charging at all,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-463,keyboard not working correctly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-028,Charger is slow but working,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-276,why is this shade different than black?? 😡,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-376,why color looks diff?? 😡,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-446,why color looks off?? 😡,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-029,Smartwatch UI is laggy,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-183,laptop not turning on,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-184,wrong laptop delivered,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-267,works fine but dont want anymore,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-367,dont like it anymore,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-403,device overheating even when idle,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-455,audio very low even at max,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-498,expected better,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-030,Phone heats slightly during gaming,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-258,maybe its fine but refund pls,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-358,used already returning,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-031,I prefer red color instead of blue,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-133,keyboard not typing properly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-134,box had damaged keyboard,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-249,not same as picture online,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-349,not satisfied,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-420,not impressed at all,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-472,screen not responding properly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-032,I don’t like this product anymore,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-240,hmm not what i imagined,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-340,works fine but refund pls,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-033,Changed my mind after buying,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-107,tablet not charging at all,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-108,tablet touch little slow but ok,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-231,screen lines appear sometimes then disappear,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-331,device not recognizing storage,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-034,This doesn’t match my style,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-167,tablet screen cracked,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-168,tablet touch bit slow,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-222,phone overheating even when idle,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-322,bluetooth pairing inconsistent,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-429,this doesnt match description exactly,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-481,device not connecting network,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-035,I thought it would look better,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-213,mouse scroll not smooth at all,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-313,keyboard typing delayed slightly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-036,Bad product,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-204,device worked fine for few days then stopped 😕,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-304,device gets hot near camera,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-438,expected something better,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-490,device fine but refund pls,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-037,Not good 😒,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-295,device heats up during calls,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-395,device heating during calls,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-038,Very disappointed,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-286,ok product but meh,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-386,ok,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-412,device stuck on startup screen,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-464,mouse stops responding randomly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-039,Worst,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-117,monitor showing lines on screen,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-118,monitor brightness low nothing serious,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-151,screen showing green lines,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-152,wrong model sent completely diff,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-277,box looked unopened but inside scratched item,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-377,box had marks inside,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-447,box had marks inside,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-040,Not working,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-268,looks kinda different from images,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-368,looks diff from pics,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-499,not bad but refund pls,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-041,Great product died in 2 hours 😡,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-185,mouse not working,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-186,mouse little laggy,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-259,i expected premium quality tbh,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-359,this doesnt match image online,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-042,Amazing laptop doesn’t turn on,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-250,works but i dont need it anymore,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-350,refund pls no reason,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-404,keyboard keys not responding sometimes,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-456,not good,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-043,Fantastic phone already broken,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-135,earbuds one side no sound,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-136,earbuds ok but not loud enough,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-241,device wont connect to wifi at all,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-341,device randomly shutting down,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-044,Lovely headphones not working at all,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-232,battery drains overnight even idle,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-332,screen showing faint shadows,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-421,device not connecting to wifi,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-473,battery drains very quickly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-045,Wow stopped working instantly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-109,charger burnt smell coming,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-110,wrong item delivered totally different 😠,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-223,audio not working during calls,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-323,camera blurry in normal light,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-046,My red headphones are broken,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-169,charger stopped working,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-170,refnd pls asap!!! 😡,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-214,tablet freezes randomly during use,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-314,mouse pointer lagging randomly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-430,works fine but refund anyway,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-482,screen flicker issue,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-047,I ordered a laptop but got a phone,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-205,charger cable loose connection keeps disconnecting,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-305,sound cuts off during playback,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-439,meh not great honestly,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-491,device stuck on boot,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-048,My smartwatch is not working,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-296,ordered black but looks greyish??,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-396,ordered black looks grey?? 😡,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-049,I got wrong earbuds model,Fraud,Legitimate,False,Fraud,True,DP Only
+CMP-287,i guess its fine idk,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-387,idk feels weird,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-413,audio not working during calls,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-465,charger overheating continuously,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-050,I ordered headphones but got charger,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-119,device not connecting wifi,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-120,not satisfied want refund,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-278,used it once returning now,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-378,used already now returning,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-448,used already returning now,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-051,Need refund ASAP device not working,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-153,device not connecting bluetooth,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-154,not satisfied 😒,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-269,meh its okay but refund pls,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-369,meh refund pls,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-500,feels cheap,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-052,URGENT laptop not turning on 😡,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-260,looks different than website,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-360,works but refund pls,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-053,Immediate refund required battery issue,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-187,tablet dead suddenly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-188,tablet not stylish enough,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-251,device stuck on boot screen,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-351,device stuck on startup,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-054,Please respond immediately phone dead,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-242,bluetooth pairing failing repeatedly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-342,screen touch lagging slightly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-055,Refund needed now charger burnt,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-137,monitor not turning on,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-138,monitor ok but not great,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-233,device gets warm quickly while using apps,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-333,keyboard unresponsive sometimes,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-422,bluetooth disconnects randomly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-474,device heating issue noticed,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-056,battrey brokn need refnd asap,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-224,touchscreen not responding in some areas,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-324,screen brightness unstable,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-405,mouse stopped working suddenly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-457,feels off idk why,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-057,phon not wrking properly 😤,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-215,monitor showing weird color tint,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-315,charger heats up too much,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-058,lapotp scren blank,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-171,device not working at all,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-172,ordered blue got black 😡,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-206,i ordered black but this looks dark blue??,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-306,idk not really happy with it,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-431,device restarting randomly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-483,keyboard not working properly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-059,chargr burn smel,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-297,box was sealed but item clearly used,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-397,box looked sealed but used item inside,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-440,refund pls no reason,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-492,bluetooth disconnect issue,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-060,hedphones no sound,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-288,expected better honestly,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-388,expected better,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-061,My headphones stopped working within 3 days,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-121,screen cracked right after opening box,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-122,i ordered white got black 😡 why,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-279,this doesnt look like same product tbh,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-379,not same as description,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-414,screen showing faint lines,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-449,this product not same as shown,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-466,ordered black got bluish shade?? 😡,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-062,Laptop is not turning on after first use,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-270,idk something feels off with it,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-370,idk feels off,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-063,Phone screen cracked within hours,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-155,battery draining too fast,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-156,prefer another color,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-261,phone randomly freezes while using apps,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-361,device rebooting randomly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-064,Earbuds not connecting properly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-252,screen ghosting effect visible,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-352,screen flickering slightly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-065,Tablet not charging at all,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-189,charger overheating,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-190,charger slow but working,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-243,camera blurry even in daylight,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-343,battery draining faster,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-066,Device stopped working after 6 days,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-234,buttons not clicking properly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-334,mouse clicks not registering,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-423,camera blurry even in daylight,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-475,audio cuts randomly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-067,Phone dead after update,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-139,network not stable on device,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-140,device fine but want refund,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-225,charging port feels loose,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-325,charging disconnects randomly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-068,Laptop fan making loud noise,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-216,i dont like this at all,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-316,why is this not fully black 😡,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-406,ordered black but looks dark grey??,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-458,expected better quality,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-069,Earbuds volume very low,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-207,box was sealed but item inside looks used,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-307,it works but dont like it anymore,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-432,screen touch not responding properly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-484,mouse not responding properly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-070,Tablet screen flickers,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-173,keyboard not responding,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-174,used keyboard already returning,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-298,used it for few hrs now refund,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-398,used item returning,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-441,device not detecting sim card,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-071,ok,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-289,not bad but refund pls,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-389,not bad but refund pls,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-493,screen showing lines,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-072,not good,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-123,laptop overheating continuously,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-124,used laptop for event now refund,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-280,product is fine but want refund anyway,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-380,product fine but refund pls,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-450,device is fine but refund pls,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-073,very bad experience,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-271,device not detecting sim card,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-371,device not connecting network,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-415,battery drains too fast,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-467,box had scratches inside,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-074,dont like it,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-262,screen touch not working in some areas,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-362,screen not responding properly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-075,want refund no reason,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-157,keyboard keys broken,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-158,box had something else inside,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-253,keyboard delay when typing fast,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-353,keyboard slow response,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-076,WHY IS THIS BLACK I ORDERED BLUE 😡,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-244,screen brightness fluctuating randomly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-344,device heating near edges,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-077,box had random stuff inside not my product,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-191,screen not working at all,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-192,wrong color again 😡,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-235,sound cuts in and out randomly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-335,device heats quickly during use,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-078,used it already now returning,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-141,phone speaker not working,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-142,used phone already now returning,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-226,why is this white i ordered black 😡,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-326,not good,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-424,screen brightness fluctuating,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-476,not what i expected,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-079,wrong model sent completely different,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-217,meh not great expected better honestly,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-317,box had scratches on device,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-407,box was sealed but item had scratches,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-459,meh okay but refund pls,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-080,invoice mismatch product,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-208,used it once for presentation now returning,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-308,looks diff than expected,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-433,battery percentage dropping suddenly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-485,charger overheating issue,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-081,device restarting automatically,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-299,this doesnt match description exactly,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-399,not same as description,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-442,screen flickering under low brightness,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-082,battery heating issue noticed,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-175,earbuds low volume issue,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-176,earbuds okay not great,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-290,feels cheap tbh,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-390,feels cheap,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-494,device heating issue,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-083,network signal weak,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-281,device stuck on loading screen,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-381,device stuck on boot,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-451,device stuck on boot screen,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-084,screen brightness flickering,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-125,mouse cursor lagging badly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-126,mouse slightly laggy but works,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-272,screen flickering continuously now,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-372,screen flicker issue,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-085,buttons not responsive,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-263,battery draining faster than expected,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-363,battery drops too fast,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-416,not really satisfied tbh,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-468,used item returning now,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-086,ordered white got black 😡,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-254,mouse double click issue randomly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-354,mouse not responding sometimes,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-087,box had older model device,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-159,earbuds not pairing,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-160,used earbuds now refund,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-245,charging stops midway sometimes,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-345,sound distortion noticed,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-088,used for few days returning now,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-236,ok,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-336,ordered black but this looks off??,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-089,wrong item completely different,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-193,keyboard broken completely,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-194,used it now refund pls,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-227,package looked tampered with honestly,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-327,feels weird to use,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-425,charging stops midway sometimes,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-477,dont like it anymore,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-090,not matching order details,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-143,laptop not powering on,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-144,ordered silver got black 😡,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-218,it works but i dont want it anymore,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-318,used product returning now,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-091,device not connecting to wifi,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-209,product seems slightly different from what i expected,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-309,meh refund pls,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-408,used it once now returning,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-460,not worth the price,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-092,battery backup very poor,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-300,works fine but i want refund still,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-400,works fine but want refund,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-434,device gets hot near camera area,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-486,why color looks different?? 😡,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-093,audio cuts during playback,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-291,device wont charge past 20 percent,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-391,device wont charge fully,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-443,keyboard typing delay issue,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-094,screen lines appearing randomly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-177,monitor not displaying anything,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-178,monitor fine but expected better,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-282,bluetooth disconnects randomly,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-382,bluetooth disconnect issue,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-452,bluetooth pairing inconsistent,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-495,audio very low,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-095,charging port loose,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-273,keyboard not registering keystrokes sometimes,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-373,keyboard not working properly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-096,ordered blue got white why?? 😡,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-127,charger not working after 1 use,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-128,battrey brokn need refnd asap 😤,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-264,device gets hot even on standby,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-364,device gets hot fast,Legitimate,Fraud,False,Fraud,False,Both Wrong
+CMP-417,meh its okay but refund pls,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-469,this isnt same product tbh,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-097,box had broken item inside,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-255,device heats up near camera area,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-355,device heating up quickly,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-098,used it already still refund,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-246,ordered blue got something like teal??,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-346,meh idk not great,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-099,wrong model sent,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-161,monitor dead on arrival,Legitimate,Legitimate,True,Legitimate,True,Both Correct
+CMP-162,monitor slightly dim,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-237,??? what is this product even,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-337,box had fingerprints on device,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-100,not matching order details,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-228,used it already but still want refund,Fraud,Fraud,True,Legitimate,False,POS Only
+CMP-328,expected more premium feel,Fraud,Legitimate,False,Legitimate,False,Both Wrong
+CMP-426,why is this not black?? 😡,Fraud,Fraud,True,Fraud,True,Both Correct
+CMP-478,looks diff from website,Fraud,Fraud,True,Fraud,True,Both Correct
